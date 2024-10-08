@@ -8,8 +8,6 @@ Lay eggs
 ## Additional Information
 ### Social Structure
 Largely live on their own with their familiars
-### Average Intelligence
-12
 ## Civilization and Culture
 ### Major Organizations
 Covens
