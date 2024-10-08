@@ -1,0 +1,6 @@
+- [[1H Sword]]
+- [[2H Sword]]
+- [[1H Axe]]
+- [[2H Axe]]
+- [[Spear]]
+- [[Quarterstaff]]

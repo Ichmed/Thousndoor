@@ -1,0 +1,1 @@
+A staggered Character has -5 Defense. Unless stated otherwise, taking any action removes the staggered condition.

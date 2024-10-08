@@ -1,0 +1,2 @@
+A Character that has not performed an Action or [yielded](Yielding) since the last time they moved for any reason is **moving**.
+A Character that has not performed an Action or yielded since the last time they were moved involuntarily is **displaced**.

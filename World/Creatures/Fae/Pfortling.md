@@ -1,0 +1,1 @@
+Small winged spider-like creatures that like to lurk atop doorway. They feast on ideas and temporary thoughts which they rip from the very top of their victims minds. They will then abscond with the thought in the shape of small parchment strips. They build nests out of the leftover parchment once the stolen thoughts have been consumed.

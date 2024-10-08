@@ -1,0 +1,1 @@
+Two or more Characters becoming synced means the [Initiative](Initiative) of all of them becomes equal to that of the character with the lowest initative.

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"a50fc112becd5b0c","type":"file","file":"Thousndoor/Rules/Magic/Magic Schools/Carnage/Enrage.md","x":-1160,"y":-620,"width":293,"height":50},
+		{"id":"8015517ca3eea476","type":"file","file":"Thousndoor/Rules/Magic/Magic Schools/Carnage/Juggernaut.md","x":-1160,"y":-540,"width":293,"height":50}
+	],
+	"edges":[
+		{"id":"b8d7d247fa7b128f","fromNode":"a50fc112becd5b0c","fromSide":"bottom","toNode":"8015517ca3eea476","toSide":"top"}
+	]
+}

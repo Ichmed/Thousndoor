@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"a2d658c2e6e9b463","x":-1100,"y":-420,"width":400,"height":60,"type":"file","file":"Thousndoor/Rules/Magic/Magic Modes/Spellslinger/Snap Burst.md"},
+		{"id":"84645899aefbe27a","type":"file","file":"Thousndoor/Rules/Magic/Magic Modes/Spellslinger/Snap Cast.md","x":-1100,"y":-560,"width":400,"height":60}
+	],
+	"edges":[
+		{"id":"2418c72340ec6ec9","fromNode":"84645899aefbe27a","fromSide":"bottom","toNode":"a2d658c2e6e9b463","toSide":"top"}
+	]
+}

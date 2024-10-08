@@ -1,0 +1,8 @@
+> [!Prose]
+> A thick stench of decay and iron fills the air as you attempt to crest a barren hilltop. While the vegetation was sparse before, there seems to be a sudden and violent stop to all plant life at the very peak of the mound. As soon as you manage to gaze upon the land beyond, you behold the profane reason for this abrupt secession of life. 
+> Nestled below, a giant rib cage is propped against a mountain on the far side of the valley. Where the giants heart would be, an enormous and impossibly deep void has bored into the side of the mountain. 
+> The very sight of the hole fills you with incredible dread and an eery silence fills the valley, damping all natural sounds. Your gut and every muscle in your body is screaming at you to leave, your feet yearn to run away and never come back, yet your mind is transfixed upon the gash in the cliff side.
+> Torrents of greenish white fog waft out of the mountain, coating the base of the rib cage and flowing into the valley below, from where they leave in river-like tendrils.
+> At the top of the mountain, appearing almost as a side note, a tower, seemingly hewn from the skull of the giant, reaches skyward. Its structure resembles a cancerous bone in color and texture, twisting and coiling around itself with organic structures and razor sharp edges. Jet black stones are embedded into its side, like shrapnel launched by an incomprehensibly large explosion.
+
+The immortal wound was created when [[_WRK_ Vampire Progenitor]] performed [[The Blasphemy]], slaying himself and the [[Godbeast of Yorn]], in an attempt to achieve immortality

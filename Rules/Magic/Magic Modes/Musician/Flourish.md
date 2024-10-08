@@ -1,0 +1,1 @@
+While Channeling a spell with [[Magical Melodies]] you may [[cantrip]] that spell without interrupting the channel

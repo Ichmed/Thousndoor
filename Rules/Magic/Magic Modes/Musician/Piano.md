@@ -1,0 +1,1 @@
+When using your music to channel a spell it may be as quiet as a normal conversation

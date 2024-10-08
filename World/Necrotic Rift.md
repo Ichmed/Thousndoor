@@ -1,0 +1,3 @@
+A necrotic rift is created when souls or objects are violently moved between the worlds of the living and the dead, or when objects or beings that exist in both are violently manipulated.
+Once this hole is torn open [[Necrolithic Mist]] starts pouring out of it. If the rift is big enough and stays open for longer [[Revenants]] might start to appear. 
+Usually a necrotic rift usually "heal" by themselves over time, but if the rift is big enough, the torrent of mist streaming out of it can overpower the natural forces that close the rift, forcing it to stay open. If the rift is big enough in scope, it may stay open forever such as the [[Immortal Wound]].

@@ -1,0 +1,1 @@
+As a reaction to an attack you may spend 1 AP to add the parry bonus of a weapon or shield to your Defense. If the attack was a ranged Attack you may only apply the bonus from shields, not from weapons.

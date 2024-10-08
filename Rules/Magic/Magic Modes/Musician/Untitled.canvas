@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"b92cfc5e1ed8db2c","x":-380,"y":-280,"width":923,"height":706,"type":"group","label":"Shredder"},
+		{"id":"8efe789cc96d735f","x":580,"y":-280,"width":400,"height":400,"type":"group","label":"Chorus"},
+		{"id":"724b10c31a2c9452","x":1020,"y":-280,"width":400,"height":400,"type":"group","label":"Pied Piper"},
+		{"id":"ebacfcc339130ebb","type":"file","file":"Thousndoor/Rules/Magic/Magic Modes/Musician/Magical Melodies.md","x":-1073,"y":-920,"width":400,"height":252},
+		{"id":"9dc79dc962639bfa","type":"file","file":"Thousndoor/Rules/Magic/Magic Modes/Musician/Crescendo.md","x":-1269,"y":-240,"width":240,"height":50},
+		{"id":"374c2ca97237832a","type":"file","file":"Thousndoor/Rules/Magic/Magic Modes/Musician/Piano.md","x":-973,"y":-240,"width":200,"height":50},
+		{"id":"b1b5d9dbb08bb579","type":"file","file":"Thousndoor/Rules/Magic/Magic Modes/Musician/Enrapture.md","x":-1269,"y":-460,"width":240,"height":50},
+		{"id":"e39a60a6f1fdb32e","type":"file","file":"Thousndoor/Rules/Magic/Magic Modes/Musician/Flourish.md","x":-973,"y":-460,"width":200,"height":50},
+		{"id":"e4685ed394797d06","x":-340,"y":-240,"width":200,"height":50,"type":"file","file":"Thousndoor/Rules/Magic/Magic Modes/Musician/Mosh Pit.md"},
+		{"id":"d5bf966d15208a10","type":"file","file":"Thousndoor/Rules/Magic/Magic Modes/Musician/Pianississimo.md","x":-1029,"y":-60,"width":313,"height":50},
+		{"id":"5d87a1dc33fc5494","type":"file","file":"Thousndoor/Rules/Magic/Magic Modes/Musician/Ramp up.md","x":-673,"y":-460,"width":200,"height":50},
+		{"id":"038d0b01826cf390","type":"file","file":"Thousndoor/Rules/Magic/Magic Modes/Musician/Overture.md","x":-673,"y":-240,"width":200,"height":50}
+	],
+	"edges":[
+		{"id":"cd871e00b69c3f83","fromNode":"ebacfcc339130ebb","fromSide":"bottom","toNode":"5d87a1dc33fc5494","toSide":"top"},
+		{"id":"953c49045a41a323","fromNode":"ebacfcc339130ebb","fromSide":"bottom","toNode":"b1b5d9dbb08bb579","toSide":"top"},
+		{"id":"6ce7f4cadb00646f","fromNode":"374c2ca97237832a","fromSide":"bottom","toNode":"d5bf966d15208a10","toSide":"top"},
+		{"id":"2d25ccf96918d35e","fromNode":"e39a60a6f1fdb32e","fromSide":"bottom","toNode":"9dc79dc962639bfa","toSide":"top"},
+		{"id":"7d781cc565e2491d","fromNode":"ebacfcc339130ebb","fromSide":"bottom","toNode":"e39a60a6f1fdb32e","toSide":"top"},
+		{"id":"c425d89e81a7a10e","fromNode":"e39a60a6f1fdb32e","fromSide":"bottom","toNode":"374c2ca97237832a","toSide":"top"},
+		{"id":"a834eb713db4bebd","fromNode":"5d87a1dc33fc5494","fromSide":"bottom","toNode":"038d0b01826cf390","toSide":"top"},
+		{"id":"620de36c21961f7f","fromNode":"5d87a1dc33fc5494","fromSide":"bottom","toNode":"e4685ed394797d06","toSide":"top"}
+	]
+}

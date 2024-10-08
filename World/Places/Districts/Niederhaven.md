@@ -1,0 +1,1 @@
+Located between [[_WRK_ WALRUS ORIGIN]] and the [[Untermeer]], Niederhaven is a bustling collection of harbors, warehouses, taverns and, sometimes makeshift, dwellings. The air is filled with the sound of seagulls and ship bells and the aroma of dead fish is never too far.

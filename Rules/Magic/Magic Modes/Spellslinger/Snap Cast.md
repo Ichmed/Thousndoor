@@ -1,0 +1,1 @@
+You may [Cantrip](Cantrip.md) any spell you know by snapping your fingers

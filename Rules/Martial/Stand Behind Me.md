@@ -1,0 +1,1 @@
+You may [[combine]] a [[jump]] and a [[parry]] if you jump into melee range of the character you are parrying.

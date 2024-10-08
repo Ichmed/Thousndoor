@@ -1,0 +1,1 @@
+Some Abilities deal no damage but still confer some effects on a target, in this case you still roll for attack as normal, if the Attack Strength is greater than 0, the effects apply

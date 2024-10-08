@@ -1,0 +1,12 @@
+- You lead an effort (Pathfinding, Investigation, Negotiation, Crafting).
+- Your expertise is important
+- Your expertise is _more_ important then anybody elses
+- Other people are still relevant
+- Maybe costs/saves energy
+- The same activity shouldn't _always_ be lead by the same Character
+- Characters should still specialize in which kind of activity they _Take the lead_
+# Ideas
+- Split into sub tasks -> 1 character = 1 Task (3 tasks?)
+- "Sous-chef" = best and second best
+- Advantage with bonus over several people
+- Tasks cost energy -> Best person might be out of energy

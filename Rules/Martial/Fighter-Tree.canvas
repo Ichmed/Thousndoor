@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"eb6487ee3525d1b3","type":"group","x":160,"y":-840,"width":1800,"height":1040,"color":"3","label":"Paragon"},
+		{"id":"8d56d43a67faf461","type":"group","x":-780,"y":-1800,"width":440,"height":1420,"label":"Core"},
+		{"id":"fbc75f9785c41917","type":"file","file":"Thousndoor/Rules/Martial/Fighter III.md","x":-760,"y":-800,"width":400,"height":400},
+		{"id":"def8265cb33ef012","type":"file","file":"Thousndoor/Rules/Martial/Fighter II.md","x":-760,"y":-1300,"width":400,"height":400},
+		{"id":"361c85d99901eb7a","type":"file","file":"Thousndoor/Rules/Martial/Soldier.md","x":-1720,"y":-800,"width":400,"height":400},
+		{"id":"99e3f9d130811942","type":"file","file":"Thousndoor/Rules/Martial/Duelist.md","x":-1240,"y":-800,"width":400,"height":400},
+		{"id":"3ff0826a05fb9154","type":"file","file":"Thousndoor/Rules/Martial/Fighter I.md","x":-760,"y":-1760,"width":400,"height":400},
+		{"id":"56bc5f00e0d1628e","type":"file","file":"Thousndoor/Rules/Martial/Veteran.md","x":-760,"y":-320,"width":400,"height":400},
+		{"id":"6de4f7c59ceaf861","type":"file","file":"Thousndoor/Rules/Martial/Berserker.md","x":-280,"y":-800,"width":400,"height":400},
+		{"id":"a22896923eb6b672","type":"file","file":"Thousndoor/Rules/Martial/Stand Behind Me.md","x":620,"y":-220,"width":400,"height":400},
+		{"id":"9baab5b17e79ae2a","type":"file","file":"Thousndoor/Rules/Martial/Unshakable Mind.md","x":1060,"y":-220,"width":400,"height":400},
+		{"id":"f44aa539b8be4cc8","type":"file","file":"Thousndoor/Rules/Martial/Take the Blow.md","x":180,"y":-220,"width":400,"height":400},
+		{"id":"4350fb4b3f4d45a9","x":1520,"y":-220,"width":400,"height":400,"type":"file","file":"Thousndoor/Rules/Martial/Bulwark.md"},
+		{"id":"f4793327b68776b0","type":"file","file":"Thousndoor/Rules/Martial/Paragon.md","x":860,"y":-800,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"76bca828ee9f333a","fromNode":"3ff0826a05fb9154","fromSide":"bottom","toNode":"def8265cb33ef012","toSide":"top"},
+		{"id":"306e3998fcd9f244","fromNode":"def8265cb33ef012","fromSide":"bottom","toNode":"fbc75f9785c41917","toSide":"top"},
+		{"id":"f286a56111fa691d","fromNode":"fbc75f9785c41917","fromSide":"bottom","toNode":"56bc5f00e0d1628e","toSide":"top"},
+		{"id":"dae2cf9cdbba889d","fromNode":"def8265cb33ef012","fromSide":"right","toNode":"6de4f7c59ceaf861","toSide":"top"},
+		{"id":"27614bd76ca18d22","fromNode":"def8265cb33ef012","fromSide":"left","toNode":"361c85d99901eb7a","toSide":"top"},
+		{"id":"cfaa1c159c4117d1","fromNode":"def8265cb33ef012","fromSide":"left","toNode":"99e3f9d130811942","toSide":"top"},
+		{"id":"2a219e017ea90114","fromNode":"def8265cb33ef012","fromSide":"right","toNode":"eb6487ee3525d1b3","toSide":"top"},
+		{"id":"de431e3426b06d37","fromNode":"f4793327b68776b0","fromSide":"bottom","toNode":"f44aa539b8be4cc8","toSide":"top"},
+		{"id":"091457a011550348","fromNode":"f4793327b68776b0","fromSide":"bottom","toNode":"a22896923eb6b672","toSide":"top"},
+		{"id":"6d7b5481b458a0be","fromNode":"f4793327b68776b0","fromSide":"bottom","toNode":"9baab5b17e79ae2a","toSide":"top"},
+		{"id":"10ddbfb880534d10","fromNode":"f4793327b68776b0","fromSide":"bottom","toNode":"4350fb4b3f4d45a9","toSide":"top"}
+	]
+}

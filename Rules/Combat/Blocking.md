@@ -1,0 +1,1 @@
+When a character voluntarily passes through your melee weapon range and you have the initiative you may attack them. If the attack hits them or they [parry](Parrying) they must stop moving.

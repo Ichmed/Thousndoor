@@ -1,0 +1,1 @@
+Generic Term for factories that process [[Necrolithic Mist]]

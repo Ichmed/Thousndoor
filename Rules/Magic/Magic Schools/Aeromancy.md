@@ -1,0 +1,5 @@
+- Speed boosts
+- Dashes
+- Knock-backs and knock-ups
+- flight
+- projectile deflection

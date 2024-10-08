@@ -1,0 +1,4 @@
+- define rules
+- punish people who don't follow them
+- bind targets
+- Deal bonus damage and hit better against targets who broke rules

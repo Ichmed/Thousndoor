@@ -1,0 +1,7 @@
+- [[Pyromancy]]
+- [[Aquamancy]]
+- [[Cryomancy]]
+- [[Lithomancy]]
+- [[Thousndoor/Rules/Magic/Magic Schools/Aeromancy]]
+- [[Metallomancy]]
+- [[Electromancy]]

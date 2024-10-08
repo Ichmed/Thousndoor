@@ -1,0 +1,1 @@
+Whenever you stop channeling a spell after 2 Rounds or more, you may evoke the same spell without paying its Mana cost *(you still pay any other costs)*. If the spell has a target it must remain the same.

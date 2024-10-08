@@ -1,0 +1,9 @@
+- Invisibility
+- Magical Darkness
+- Buffs while in shadow/darkness
+	- Speed
+	- No sound
+	- Teleportation
+- Shadow illusion
+- Turn into shadow
+- Attack shadow of other person

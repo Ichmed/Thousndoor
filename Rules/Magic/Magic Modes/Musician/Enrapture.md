@@ -1,0 +1,1 @@
+You may channel spells with a range of _self_ onto other characters with [[Magical Melodies]]

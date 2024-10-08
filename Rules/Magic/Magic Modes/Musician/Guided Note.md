@@ -1,0 +1,1 @@
+Characters that can hear your music get -1 Defense against spells you cast with [[Flourish]]

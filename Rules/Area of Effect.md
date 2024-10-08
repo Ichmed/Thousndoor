@@ -1,0 +1,2 @@
+When rolling for attack strength on an area of effect ability, you only roll once, the result is then used for all characters hit by the effect.
+Calculate the Defense of all characters hit by the effect as if they were [[Restrained]]

@@ -1,0 +1,1 @@
+A length of yarn that slowly fades into the realm of the dead. Can be used to tether objects on one side of they veil to things on the other side.

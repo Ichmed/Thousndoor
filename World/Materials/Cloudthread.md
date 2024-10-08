@@ -1,0 +1,1 @@
+Strong fiber spun from [[Solid Clouds]]

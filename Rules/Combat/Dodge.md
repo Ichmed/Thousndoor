@@ -1,0 +1,2 @@
+As a reaction to an Area Attack you may pay 1AP to move up to 1d6, capped by your movement speed. Perform this movement before applying effects from the Area Attack. This movement is restricted in all the ways regular movement would be restricted. 
+You may use Movement Abilities to dodge if they have the _Dodge_ Subype
