@@ -1,4 +1,4 @@
->[!quote]
+>[!prose]
 > For ages children were told of spirits among the stars, to watch over them, when their mothers could not.
 > One lonely night, an orphan girl cried out for a friend, and the full moon obliged.
 > The girl long gone, the moon fairies now wander the world in search of a home that never was.
