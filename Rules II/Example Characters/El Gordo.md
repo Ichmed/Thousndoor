@@ -8,14 +8,12 @@
 | Sneak    | 2     | Deceive   | 3     |
 | Perceive | 3     | Endure    | 1     |
 | Intuit   | 1     |           |       |
-## *Rogue Manitari*
-**Origin**
+## Origin - Rogue Manitari
 Frighten +1
 Deceive +1
-Perceive +2
 **+No Rest, No Sleep, No Air**
 **-Justified Extreme Paranoia**
-## *Helmholt - Mafia Goon*
+## Helmholt - Mafia Goon
 **History**
 Deceive +1
 Sneak +1
