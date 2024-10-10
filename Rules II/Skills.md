@@ -2,7 +2,7 @@
 
 | Name      | Type    | Description                                     | Counter          |
 | --------- | ------- | ----------------------------------------------- | ---------------- |
-| Melee     | Base    | Perform a melee attack or defend a Melee attack | Melee, Endure    |
+| Melee     | Base    | Perform a melee attack or defend a melee attack | Melee, Endure    |
 | Traverse  | Base    | Move over difficult terrain or climb            |                  |
 | Sneak     | Base    | Move without being noticed, attack from behind  | Perceive         |
 | Perceive  | Base    | See, Hear, Feel, etc.                           |                  |
