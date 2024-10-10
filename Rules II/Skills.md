@@ -15,3 +15,4 @@
 | Fly       | Special |                                                 |                  |
 | Determine | Special | Identify Objects, Discover Knowledge            | Deceive          |
 | Shape     | Special | Create or transform an object                   |                  |
+| Medicine  | Special |                                                 |                  |
