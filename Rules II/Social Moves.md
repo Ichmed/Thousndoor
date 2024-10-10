@@ -9,7 +9,7 @@ Your character has prior knowledge of or contact to a local NPC
 - **3 Points**: You have previously established a positive rapport with the NPC 
 	Example: *"My old friend Paul set up a smithy in this town a few years back"*
 ## Dirty Laundry
-**1 Point and 1 Clue about local rumors**: Gain knowledge of an NPCs dirty secret, if there is nothing to know you do not lose the Point *(you **do*** lose the Clue)*
+**1 Point and 1 Clue about local rumors**: Gain knowledge of an NPCs dirty secret, if there is nothing to know you do not lose the Point *(you **do** lose the Clue)*
 ## Ask around
 (Off time) You as around the area to collect information.
 **`X` Points**: Gain `X` Clues about local rumors and events.
