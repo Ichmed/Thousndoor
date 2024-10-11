@@ -14,6 +14,6 @@
 | Ranged     | Special | Perform a ranged attack with a weapon or spell  | Traverse, Endure |
 | Fly        | Special |                                                 |                  |
 | Determine  | Special | Identify Objects, Discover Knowledge            | Deceive          |
-| Shape      | Special | Create or transform an object                   |                  |
+| Shape      | Special | Create or transform a substance                 |                  |
 | Restore    | Special | Heal and Repair                                 |                  |
 | Improve    | Special | Upgrades, Buffs and Boons                       |                  |
