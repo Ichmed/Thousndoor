@@ -1,3 +1,4 @@
+**Alignment:** Full Death
 > [!prose] Erstgeborener
 > Geborn zuerst, er stirbt zuletzt
 > Sein Schicksal bleibt — obgleich er hetzt

@@ -1,4 +1,4 @@
-
+**Alignment:** Full Material
 > [!prose] Boden
 > Götter Geister hohe Spheren
 > Der Mensch nach Recht und Ordnung sucht

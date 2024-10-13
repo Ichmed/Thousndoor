@@ -1,3 +1,4 @@
+**Alignment:** Full Dream
 > [!Prose] Er Träumt
 > Er träumt Erde, Feuer, Wind
 > Er träumt Vater, Mutter, Kind
