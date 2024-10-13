@@ -1,4 +1,5 @@
-**Base** Skills can always be used, **Special** Skills can only be used if you use a Feature, Tool or Spell to do so (even if it gives +0). You may still use these things to improve rolls on Base Skills.
+**Base** Skills can always be used.
+**Special** Skills can only be used if you use an Perk or Item.
 
 | Name       | Type    | Description                                     | Counter          |
 | ---------- | ------- | ----------------------------------------------- | ---------------- |
@@ -14,6 +15,7 @@
 | Ranged     | Special | Perform a ranged attack with a weapon or spell  | Traverse, Endure |
 | Fly        | Special |                                                 |                  |
 | Determine  | Special | Identify Objects, Discover Knowledge            | Deceive          |
-| Shape      | Special | Create or transform a substance                 |                  |
+| Shape      | Special | Create or transform terrain                     |                  |
 | Restore    | Special | Heal and Repair                                 |                  |
 | Improve    | Special | Upgrades, Buffs and Boons                       |                  |
+

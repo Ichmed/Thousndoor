@@ -14,19 +14,16 @@ Deceive +1
 **+ Mushroom-Man** (No Rest, No Sleep, No Air)
 **- Extreme Paranoia**
 ## Mafia Goon
-**Social**
 Deceive +1
 Sneak +1
 **+ Mafia Connections**
 **- Wanted by the Hive**
 ## Rat Caller
-**Magic**
 Ranged +1
 Perceive +1
-**+ Talk with Rats**
-**- Easily frightened**
+**+ Command Rats**
+**- Rats Easily frightened**
 ## The Rat Pack
-**Sidekick**
 Melee +1
 Sneak +1
 Perceive +1
