@@ -6,7 +6,6 @@
 		{"id":"0b8bcc607282c126","type":"group","x":-3720,"y":280,"width":1880,"height":1180,"label":"Yyrika"},
 		{"id":"59b42865904e3bec","type":"group","x":-1400,"y":2160,"width":1415,"height":1075,"label":"Cadaver of Irgos"},
 		{"id":"30a7920f7dc1d4ad","x":440,"y":1240,"width":900,"height":440,"type":"group","label":"Niederhaven"},
-		{"id":"906f50a5127df6ce","type":"file","file":"Thousndoor/World/Places/Districts/Ober Gorberg.md","x":-900,"y":-20,"width":400,"height":400},
 		{"id":"f1399d4059d21680","type":"file","file":"Thousndoor/World/Places/Districts/Yarkut.md","x":-2000,"y":400,"width":700,"height":400,"color":"5"},
 		{"id":"ad141026773197fe","type":"file","file":"Thousndoor/World/Places/Immortal Wound.md","x":-3320,"y":560,"width":400,"height":400},
 		{"id":"dcea581616d63d16","type":"file","file":"Thousndoor/World/Places/Yyrika.md","x":-2640,"y":340,"width":400,"height":400},
@@ -38,7 +37,8 @@
 		{"id":"ccd261fc62f44047","type":"file","file":"Thousndoor/World/Places/_WRK_ Joharbist Origin.md","x":-2680,"y":-670,"width":400,"height":400},
 		{"id":"d9dd17f70f26d42e","type":"file","file":"Thousndoor/World/Places/Districts/Waldenfort.md","x":-900,"y":-670,"width":400,"height":400},
 		{"id":"487c416b97b8fb28","type":"file","file":"Thousndoor/World/Places/Districts/Paradiso.md","x":-900,"y":-1560,"width":400,"height":400,"color":"6"},
-		{"id":"e1720bf57f4cc38b","type":"file","file":"Thousndoor/World/Places/Untermeer.md","x":-320,"y":1285,"width":400,"height":400}
+		{"id":"e1720bf57f4cc38b","type":"file","file":"Thousndoor/World/Places/Untermeer.md","x":-320,"y":1285,"width":400,"height":400},
+		{"id":"906f50a5127df6ce","type":"file","file":"Thousndoor/World/Places/Districts/Ober Gorberg.md","x":-900,"y":0,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"9b90b744dbc0401d","fromNode":"d9dd17f70f26d42e","fromSide":"top","toNode":"487c416b97b8fb28","toSide":"bottom","toEnd":"none","color":"5"},
