@@ -1,1 +1,0 @@
-The Trifold Curse, or the "Unthinkable curse of Nowhere and Forever"
