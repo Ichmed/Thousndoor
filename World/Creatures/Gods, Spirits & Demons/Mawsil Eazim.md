@@ -1,3 +1,3 @@
-**Alignment:** Material Death
+**Alignment:** #alignment/death 
 
 Leader of [[Shabach Sari]]
