@@ -1,5 +1,5 @@
 The ruling body of [[Thousndoor]]
-- [[The Burning Church]]
+- [[Burning Church]]
 - [[Joharbian Legion]]
 - [[Blood Lords of Yyrika]]
 - [[_WRK_ Walrusses]]
