@@ -1,8 +1,5 @@
-A landscape filled with canyons and craters that is overgrown with [[Lickolt]] Trees, causing them to be filled with [[Necrolithic Mist]] which becomes denser the deeper you go.
+A landscape filled with canyons and craters filled with [[Necrolithic Mist]] and overgrown with [[Lickolt]] Trees. The three main valleys are the eyes and mouth of the [[Cadaver of Irgos]], who seems to be the source of the necrolithic mist.
 ## Location
-Plane: unknown
 Connected to: [[Dead District]]
 ## Economy
 Main exports: [[Potentiated Mist]], Deadwood, [[Singing Sprites]]
-
-#unknown-plane
