@@ -1,0 +1,1 @@
+A series of Islands formed by the fingers and hand bones of the [[Cadaver of Irgos]] located in the tropical [[Mirrored Ocean]]. 
