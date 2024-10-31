@@ -1,6 +1,6 @@
 ## Unlife Cycle
 ### Spawning
-The larvae of the soul gorger wurm are hatched from small, recently deceased, animals. The mother worm splits of a large part of its soul, hurling it through the [[Wurm Stone]] with immense power. While most of the soul is stripped away in the process, enough remains to turn the animal into a [Ghoul](Ghouls), which twists its shape into a wurm.
+The larvae of the soul gorger wurm are hatched from small, recently deceased, animals. The mother worm splits of a large part of its soul, hurling it through the [[Wurm Stone]] with immense power. While most of the soul is stripped away in the process, enough remains to turn the animal into a [Ghoul](Ghoul.md), which twists its shape into a wurm.
 ### Infancy
 The wurm hatchling burrows itself into the ground where it hunts for larger and larger animals, growing to a size of about a meter.
 ### Adolescence

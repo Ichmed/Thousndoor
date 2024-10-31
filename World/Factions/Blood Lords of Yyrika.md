@@ -1,4 +1,4 @@
-Vampires that use [[Necrolithic Mist]] filtered through the blood of artisan [[Ghouls]] to achieve immortality without becoming Ghouls themselves.
+Vampires that use [[Necrolithic Mist]] filtered through the blood of artisan [[Ghoul]] to achieve immortality without becoming Ghouls themselves.
 
 Their internal organs apart from the heart will still rot causing them to be filled with dust over the years, this makes them "fall to dust" when killed.
 

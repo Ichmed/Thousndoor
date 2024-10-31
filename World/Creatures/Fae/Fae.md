@@ -1,8 +1,8 @@
 Beings born from dreams
 
-- [[Moon Fairies]]
+- [[Moon Fairy]]
 - [[White Coy]]
-- [[Singing Sprites]]
+- [[Singing Sprite]]
 - [[Pfortling]]
 - [[Dream Slug]]
 - 

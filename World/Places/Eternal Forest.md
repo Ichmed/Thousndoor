@@ -2,4 +2,4 @@ A landscape filled with canyons and craters filled with [[Necrolithic Mist]] and
 ## Location
 Connected to: [[Dead District]]
 ## Economy
-Main exports: [[Potentiated Mist]], Deadwood, [[Singing Sprites]]
+Main exports: [[Potentiated Mist]], Deadwood, [[Singing Sprite]]

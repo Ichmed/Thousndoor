@@ -5,6 +5,6 @@
 ## Geography: 
 [[Eternal Forest]], [[Dead District]]
 ## Resources: 
-[[Lickolt]], [[Necrolithic Mist]], [[Potentiated Mist]], [[Singing Sprites]]
+[[Lickolt]], [[Necrolithic Mist]], [[Potentiated Mist]], [[Singing Sprite]]
 ## Clothing: 
 Rags, ceremonial bindings
