@@ -4,7 +4,7 @@
 - [[_WRK_ Crocoids]]
 - Desert [[Carnae]] (Foxes, Jackals)
 ## Geography: 
-[[Die Sieben Ebenen]] Desert, Floodplanes
+[[Sieben Ebenen]] Desert, Floodplanes
 ## Resources: 
 Wheat, Glass, Limestone, Bronze, Paper
 ## Clothing: 

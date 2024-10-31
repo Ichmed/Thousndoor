@@ -1,1 +1,1 @@
-Armadillo like [[Carnae]] which live in desserts. Commonly found in the [[Die Sieben Ebenen]] and [[_WRK_ Cowboyplace]].
+Armadillo like [[Carnae]] which live in desserts. Commonly found in the [[Sieben Ebenen]] and [[_WRK_ Cowboyplace]].
