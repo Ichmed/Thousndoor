@@ -1,0 +1,1 @@
+Katarmanrans with a canvas of [[Cloudthread]] as their bows. They are used by the [[_WRK_ Mongols]] to traverse the vast reaches of the [[Cyclopian Pastures]].
