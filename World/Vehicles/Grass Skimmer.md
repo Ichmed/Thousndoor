@@ -1,2 +1,2 @@
 Katarmanrans with a canvas of [[Cloudthread]] as their bows. They are used by the [[_WRK_ Mongols]] to traverse the vast reaches of the [[Cyclopian Pastures]].
-While most are 
+While most skimmers are windpowered, those meant for heavy cargo are usually drawn by beasts of burden.
