@@ -1,4 +1,4 @@
-Large trees growing in [[Eternal Forest]]. Because they do not require much nutrition they instead invest in stability, leading to extremely lightweight and durable wood. Some scholars call it the aluminum of wood.
+Large trees growing in the [[Eternal Forest]]. Because they do not require much nutrition they instead invest in stability, leading to extremely lightweight and durable wood. Some scholars call it the aluminum of wood.
 ## Properties
 
 ### Material Characteristics

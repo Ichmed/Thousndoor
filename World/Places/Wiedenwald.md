@@ -1,2 +1,3 @@
 ![[Pasted image 20241020161247.png]]
 
+The [[Wiedenwald]] is a collection of [[Gleibe]]n, that together form a forest, however du to crown shyness and the incompatible root systems, there are clear borders between the areas where one [[Gleibe]] ends and another begins. Thes natural demarcations also traditionally form the borders between the regions belonging to local clans. In wartime, clans are known to cut and burn the trunks and roots of their opponents and thus physically move the boundaries of their territories.
