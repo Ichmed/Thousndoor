@@ -1,0 +1,2 @@
+A phenomenon mostly associated with the [[_WRK_ Solid Cloud Mountains]], though they do appear elsewhere in the world. Solid clouds are visually identical to normal clouds and appear in a wide range of forms and shapes. 
+Solid clouds are easy to cut and can be stretched or compressed, however their tensile and compressive strength increases exponentially when being stretched or pressed. Their density is similar to that of normal clouds, meaning they will float and can even support additional weight.
