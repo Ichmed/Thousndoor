@@ -1,0 +1,3 @@
+Dark grey stone with a blueish tint, the surface is matte but completely smooth to the touch. [[Sehstein]] tends to form hexagonal columns down to the molecular level and is nearly as hard as diamond. There are no known means of shaping or creating [[Sehstein]].
+[[Portal]]s are build from [[Sehstein]], seemingly causing their hexagonal shape.
+"[[Thousndoor]] proper" is located inside a giant hollow [[Sehstein]] column and surrounded by an expanse covered in [[Sehstein]].
