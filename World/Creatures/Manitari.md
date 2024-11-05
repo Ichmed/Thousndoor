@@ -9,3 +9,8 @@ The only salvation for these individuals is to accumulate enough carbohydrates (
 Due to their fungal nature, manitari are able to perform many fermentation processes at will. They use this ability to trade for resources with surrounding sapient species. The most common arrangement consist of shipments of base materials (sugar, flour, etc.) which are then partially turned into derivatives (sourdough, rum, etc.) while the hive keeps the rest as payment.
 
 Manitari are only interested in currency insofar that it can be traded for carbohydrates, they usually do not partake in banking, corporations or other complicated monetary endeavors.
+
+```dataview
+list where Species = "[[Manitari]]"
+```
+
