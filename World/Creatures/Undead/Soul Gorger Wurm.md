@@ -7,6 +7,6 @@ The wurm hatchling burrows itself into the ground where it hunts for larger and 
 Having grown large enough the wurm now acts as an ambush predator, reducing its metabolic rate as far as possible while growing larger and burrowing its backside deeper and deeper into the ground.
 ### Death
 After reaching a size of over a 100 meters, which can take centuries to achieve, the wurm digs a large cavern. There the wurm starts to create a _Wurm Stone_ inside its gullet. 
-After the stone is fully grown, the wurm violently launches itself upward, breaking through the ground. The inertia of the stone causes it to rip through the wurms insides, killing the wurm soon after it reaches the surface. The cadaver then withers away, leaving behind only the stone and a skeleton.
+After the stone is fully grown, the wurm violently launches itself upward, breaking through the ground. The inertia of the stone causes it to rip through the wurm's insides, killing the wurm soon after it reaches the surface. The cadaver then withers away, leaving behind only the stone and a skeleton.
 ### Undeath
 Beyond the veil, the wurm's soul remains anchored to the _Wurm Stone_, using it to attract the souls of the recently deceased. From here on out the wurm operates once more as an ambush predator, feeding on souls lured by the stone, as well as those randomly passing by.
