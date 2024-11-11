@@ -3,5 +3,3 @@ Beings dropped from a great height into the [[Dead District]]. Crushed by the fa
 A lucky few might be collected by [[Deathshepperd]]s and delivered to the upper city where they can perish.
 
 Being purposely thrown into the [[Dead District]] is used as a form of ultimate punishment by certain crime syndicates.
-
-#undead #monster #todo/better-name #punishment
