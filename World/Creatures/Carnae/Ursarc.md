@@ -1,0 +1,1 @@
+A Species of bear-like [[Carnae]] that live in the far north of the [[_WRK_ WALRUS Ocean]].

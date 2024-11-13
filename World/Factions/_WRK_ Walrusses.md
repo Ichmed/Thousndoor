@@ -1,7 +1,7 @@
 ![[Pasted image 20240917211958.png]]
 ## Species:
 - Humans
-- aquatic [[Carnae]] ([[Rosmar]], Otters)
+- aquatic [[Carnae]] ([[Rosmar]], Otters, [[Ursarc]])
 - Trolls
 - Sea-bird [[Aven]]s (gulls, albatross, fish-eagle)
 ## Geography:
