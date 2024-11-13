@@ -1,4 +1,4 @@
 [Species:: [[Manitari]]]
 [Status:: alive]
-[alias:: El Gordo]
+[aliases:: El Gordo]
 [current location:: [[Gunkworks]]]
