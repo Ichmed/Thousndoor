@@ -1,8 +1,10 @@
 ![[Pasted image 20240917211958.png]]
 ## Species:
 - Humans
-- aquatic [[Carnae]] ([[Rosmar]], Otters, [[Ursarc]])
-- Trolls
+- [[Rosmar]]
+- [[_WRK_ Otters]]
+- [[Ursarc]]
+- [[Salt Trolls]]
 - Sea-bird [[Aven]]s (gulls, albatross, fish-eagle)
 ## Geography:
 North Sea, Fjords, Rainy, Saltspray
