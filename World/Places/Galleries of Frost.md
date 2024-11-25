@@ -1,1 +1,3 @@
 In the far north of [[_WRK_ polar region]] there is a seemingly endless expanse of ice. On closer inspection the floor is made of a large collection of frozen bodies from [[Rosmar]], [[Ursarc]] and [[Humans]]. It is tradition among many tribes of the [[_WRK_ WALRUS Ocean]], for shamans near there deathbed to come to this place and join the legions of dead frozen bodies.
+
+[[Shamans]] visit this place and listen to the wind echoing and whispering through the latices of frozen bodies to communicate with their ancestors.
