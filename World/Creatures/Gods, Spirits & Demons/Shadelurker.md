@@ -1,0 +1,1 @@
+Eyes that open up walls which are cast in shade. Once a light source hits the wall the eyes will immediately vanish. [[Shadelurker]]s appear on their own but are often the attracted by [[Remote Viewing]] by a [[Dreamer]]
