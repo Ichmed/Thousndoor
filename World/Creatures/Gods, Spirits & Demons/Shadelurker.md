@@ -1,1 +1,3 @@
-Eyes that open up walls which are cast in shade. Once a light source hits the wall the eyes will immediately vanish. [[Shadelurker]]s appear on their own but are often the attracted by [[Remote Viewing]] by a [[Dreamer]]
+Eyes that open up on surfaces which are cast in shade. Once a light source hits the wall or a person makes active eye contact with the lurker, the eye will close and immediately vanish. [[Shadelurker]]s appear completely on their own and are harmless, however they are often attracted by [[Remote Viewing]].
+
+Because of their association with remote viewing and their general unsettling nature, [[Shadelurker]]s are often not welcome and seen as bad omens.
