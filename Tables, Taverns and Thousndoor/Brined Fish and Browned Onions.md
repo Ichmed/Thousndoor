@@ -3,4 +3,8 @@ Today's culinary journey leads me through winding alleys that smell of if salt a
 
 As I enter the establishment, my whole world seems to shift. The constant but dim light of the gas lamps outside is replaced by the flickering candles, the constant dinging of the forge and screaming of seagulls is replaced by sizzling pans and quiet conversation, but most important is the smell. The odor of brackish water, salty air, smoke, and grease turns into tabacco, onions, fried fish and, well, grease. But above it all there is sour taste in the air. It would not be fair to call it a stench, but it certainly is not what one would usually describe as "pleasant".
 
-Having regained my bearings and with my eye adjusted to the dimmer light, I look around for the source of the smell. The room is small, seating at most 20 people at its 3 tables and bar. In the left hand corner there is a bunch of sailors playing durgen. The middle table is empty but cluttered with stained napkins and a 
+Having regained my bearings and with my eye adjusted to the dimmer light, I look around for the source of the smell. The room is small, seating at most 20 people at its 3 tables and bar. 
+In the left hand corner there is a bunch of sailors playing durgen. 
+The middle table is empty but cluttered with stained napkins and a half eaten thing of fries.
+The right hand table is occupied in its entirety by an [[Ursarc]] just about finished with what appears to be a three course meal.
+On the stools along the bar an old drunk man seems to search for answers in the depths of his plate. Behind the bar I find the owner of this hole in the wall and the answer to my questi - "**Door!**" - what? - "**Door!**" the ancient seeming [[Rosmar]] bellows and points behind me while maintaining eye contact. I quickly shut the door and make my excuses.
