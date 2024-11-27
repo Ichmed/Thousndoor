@@ -32,4 +32,5 @@ The once dry bread is so soggy, and the fries balanced atop it so precariously, 
 "You a copper?"
 "No, just a journalist!"
 "'bout as bad, no?"
-Just as I fear being kicked out of the establishment, his face softens. "What ya wanna know"
+Just as I fear being kicked out of the establishment, his face softens. "What ya wanna know".
+I will spare you the sarcasm laden and slow conversation that follows, but at the end of it, I'm rather dumbfounded, there seems to be 
