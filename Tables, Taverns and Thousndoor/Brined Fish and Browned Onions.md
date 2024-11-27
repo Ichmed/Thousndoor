@@ -27,3 +27,9 @@ As soon as the herring hits the oil, I know why Grando seldom looks at what he i
 As I take my first bite, an avalanche of flavors hits my palette. The dense sweetness of the bread and onions, the surprisingly meaty taste of the fish and the heavily salted fries seem almost to overwhelming, but just then, the remaining acidity from the brine and semi-raw onions cuts right through it delivering an overall well rounded experience.
 
 The once dry bread is so soggy, and the fries balanced atop it so precariously, that I hurry get the whole sandwich into my beak as fast as possible, and before i even know it, it is gone.
+
+"'nother?" asks Grando, but with my tongue raw and my fingers sticky, I think I had enough for today. "No thank you, but would you mind answering some questions?". 
+"You a copper?"
+"No, just a journalist!"
+"'bout as bad, no?"
+Just as I fear being kicked out of the establishment, his face softens. "What ya wanna know"
