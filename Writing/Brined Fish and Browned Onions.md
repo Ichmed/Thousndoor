@@ -23,7 +23,7 @@ Taking my seat at the bar, I study the man behind the counter. The eponymous Gra
 
 I order "Sröten & Fries", as well as a beer, and watch intently as Grando begins the preparation. With a kick of the foot, that seems as second nature to Grando as blinking is to me, he hits the bottom of one of his cabinets, which sends a basket of fries hurtling down from its lock and down into the fryer below. Using two forks as improvised tongs, Grando fishes a an entire pickled herring from a glass, containing several more, and drops it in front of him. Without even looking down. I however, do look down, and see a large pan that sits atop a sputtering gas fire. The pan is already half filled with sliced onions in various stages of caramelization, some well past their zenith.
 
-As soon as the herring hits the oil, I know why Grando seldom looks at what he is doing: A plume of vaporized brine erupts from the fish and hits me in the eye, causing my to tear up and whip my head back in pain. 
+As soon as the herring hits the oil, I know why Grando seldom looks at what he is doing: A plume of vaporized brine erupts from the fish and hits me in the eye, causing me to tear up and whip my head back in pain. 
 
 After regaining my composure, I study the frying pan again. The smell of vinegar soon turns from biting and acidic to almost sickeningly sweet, just as the fish turns to a golden brown. At this point Grando removes it from the pan and onto a small cutting board. With one fell swoop of a cleaver, Grando splits the fish right down the spine. He then places it into a bread roll, not unlike a hot dog bun, and fills it with some of the browned onions, including a healthy spoon full of the juices accumulated in the pan.
 
