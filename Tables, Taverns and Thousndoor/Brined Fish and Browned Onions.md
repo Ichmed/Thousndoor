@@ -1,0 +1,2 @@
+- By Arzac Silvermead
+Today's culinary journey leads me through winding alleys that smell of if salt and fish down towards the harbor of [[Niederhaven]]. Here, right on the waterfront, between a tackle whittler and a harpoon smithy, there is a small green door. The paint has flaked around the edges, yet the golden yellow lettering at the top is still legible: "Grando's Fishery"
