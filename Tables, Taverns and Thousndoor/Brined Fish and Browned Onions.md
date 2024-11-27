@@ -9,5 +9,16 @@ The middle table is empty but cluttered with stained napkins and a half eaten th
 The right hand table is occupied in its entirety by an [[Ursarc]] just about finished with what appears to be a three course meal.
 On the stools along the bar an old drunk man seems to search for answers in the depths of his plate. Behind the bar I find the owner of this hole in the wall and the answer to my questi - "**Door!**" - what? - "**Door!**" the ancient seeming [[Rosmar]] bellows, and points behind me while maintaining eye contact. I quickly shut the door and make my excuses.
 
-Taking my seat at the bar i study the man behind the bar. The eponymous Grando is a Rosmar in his late 80s. His head is completely bald and his dark brown coat is speckled with grey and white spots. His thick woolen three piece suit has seen better days, as have his tusks. Both are worn a scratched, the right one missing at least two fingers in length. From somewhere bellow his thick and yellowed mustache, where I presume his mouth to be, protrudes an exquisitely carved [[Lickolt]] pipe, from which he deep draws breaths without even gripping the pipe with his hands. Instead he uses his hand to perpetually clean one of the dirties glasses I have ever seen with a stained rag which puts even the glass to shame.
+Taking my seat at the bar i study the man behind the bar. The eponymous Grando is a Rosmar in his late 80s. His head is completely bald and his dark brown coat is speckled with grey and white spots. His thick woolen three piece suit has seen better days, as have his tusks. Both are worn a scratched, the right one missing at least two fingers in length. From somewhere bellow his thick and yellowed mustache, where I presume his mouth to be, protrudes an exquisitely carved [[Lickolt]] pipe, from which he deep draws breaths without even gripping the pipe with his hands. Instead he uses his hand to perpetually clean one of the dirties glasses I have ever seen with a stained rag which puts even the glass to shame. Behind him there is a large slate hidden behind an amalgamation of old rum and whiskey bottles, it reads
+```
+ - Sröten           $4,-
+ - Fries            $1,50
+ - Sröten & Fries   $5,-
+ 
+ - Beer             $2,-
+ - Whiskey          $3,-
+```
 
+I order "Sröten & Fries" as well as a beer and watch intently as Grando begins the preparation. With a kick of the foot, that seems as second nature to Grando as blinking is to me, he hits the bottom of one of his cabinets, which sends a basket of fries hurtling down from its lock and down into the fryer below. Using two forks as improvised tongs, Grando fishes a an entire pickled herring from a glass containing several more and drops it in front of him, without even looking down. I however, do look down, seeing a large pan that sits atop a sputtering gas fire. The pan is already half filled with sliced onions in various stages of caramelization, some well past their zenith.
+
+As soon as the herring hits the oil, I know why Grando seldom looks at what he is doing: A plume of vaporized brine erupts from the fish and hits me in the eye. The smell soon turns from biting and acidic to almost sickeningly sweet. 
