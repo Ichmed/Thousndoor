@@ -1,0 +1,1 @@
+The largest hospital in [[Thousndoor]]. Located in [[Glimmbach]] 
