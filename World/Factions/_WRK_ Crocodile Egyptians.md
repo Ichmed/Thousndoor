@@ -7,6 +7,8 @@
 [[Sieben Ebenen]] Desert, Floodplanes
 ## Resources: 
 Wheat, Glass, Limestone, Bronze, Paper
+## Magic
+Skilled in [[Aquamancy]] and [[Graphomancy]]
 ## Clothing: 
 - **Workers**: Light linen
 - **Soldiers**: Light linen and bronze armor
