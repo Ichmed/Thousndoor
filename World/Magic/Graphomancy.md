@@ -1,4 +1,3 @@
-
 > [!prose] Title
 > "I seem to have come to rather confounding conclusions whilst pondering the most obvious of facts:
 > Axiom 1: Reality is truth.
