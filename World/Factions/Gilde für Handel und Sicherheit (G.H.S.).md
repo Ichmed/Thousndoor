@@ -3,7 +3,7 @@ The ruling body of [[Thousndoor]]
 - [[Joharbian Legion]]
 - [[Blood Lords of Yyrika]]
 - [[Sorka Fleet]]
-- [[_WRK_ Aigor Shun Clan]]
+- [[Wasura Yoke]]
 - [[_WRK_ Crocodile Egyptians]]
 
 #todo/better-name 
