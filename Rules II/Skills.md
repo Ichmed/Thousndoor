@@ -1,21 +1,15 @@
-**Base** Skills can always be used.
-**Special** Skills can only be used if you use an Perk or Item.
 
-| Name       | Type    | Description                                     | Counter          |
-| ---------- | ------- | ----------------------------------------------- | ---------------- |
-| Melee      | Base    | Perform a melee attack or defend a melee attack | Melee, Endure    |
-| Traverse   | Base    | Move over difficult terrain or climb            |                  |
-| Sneak      | Base    | Move without being noticed, attack from behind  | Perceive         |
-| Perceive   | Base    | See, Hear, Feel, etc.                           |                  |
-| Intuit     | Base    | Detect lies, read social cues                   | Deceive          |
-| Intimidate | Base    |                                                 | Endure           |
-| Convince   | Base    |                                                 | Endure           |
-| Deceive    | Base    |                                                 | Intuit           |
-| Endure     | Base    | Resist Mental or Physical Strain                |                  |
-| Ranged     | Special | Perform a ranged attack with a weapon or spell  | Traverse, Endure |
-| Fly        | Special |                                                 |                  |
-| Determine  | Special | Identify Objects, Discover Knowledge            | Deceive          |
-| Shape      | Special | Create or transform terrain                     |                  |
-| Restore    | Special | Heal and Repair                                 |                  |
-| Improve    | Special | Upgrades, Buffs and Boons                       |                  |
+
+
+| Name      | Description                                                 |
+| --------- | ----------------------------------------------------------- |
+| Move      | Move fast or in unexpected ways such as climbing or flying  |
+| Deceive   | Lie to people, Sneak around or use legerdemain              |
+| Combat    | Punch, kick, shoot, dodge, block and spit                   |
+| Talk      | Get yourself a good deal or in and out of sticky situations |
+| Knowledge | Draw from street or book smarts or use magical divination   |
+| Endure    | Resist physical and psychological _Stress_                  |
+| Perceive  | Sense your surroundings and intuit peoples intentions       |
+| Boon      | Provide your allies with magical or mundane blessings       |
+| Bane      | Curse or sabotage your foes                                 |
 
