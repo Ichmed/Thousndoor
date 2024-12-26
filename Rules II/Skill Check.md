@@ -1,7 +1,5 @@
 ## Base
-Roll dice equal to your Skill + Advantage - Disadvantage, then choose a number of dice equal to your Skill. If, for any reason, you roll less dice then your Skill, count the missing dice as 1s.
-If you are using a Tool, Feature and/or Spell for this check, add the Bonus.
-Then subtract the Difficulty of the Test
+Roll dice equal to your _Skill Value_, for every die, you may choose to keep the actual value you rolled or treat it as a 1. In order to keep the die you must justify doing so by using one of your _Perks_ or a current _Situation_. You may only use a each _Perk_ or _Situation_ once per Skill Check.
 
 | Result        | Name                 | Prose                | Stress point? |
 | ------------- | -------------------- | -------------------- | ------------- |
