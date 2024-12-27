@@ -1,6 +1,4 @@
 
-
-
 | Name     | Description                                                 |
 | -------- | ----------------------------------------------------------- |
 | Move     | Move fast or in unexpected ways such as climbing or flying  |
@@ -12,4 +10,5 @@
 | Perceive | Sense your surroundings and intuit peoples intentions       |
 | Boost    | Provide your allies with magical or mundane blessings       |
 | Curse    | Magically or mundainly sabotage your foes                   |
+| Tinker   | Modify Equipment or Machinery                               |
 
