@@ -13,13 +13,13 @@ Each Check has penalty that is deducted from the Result:
 
 The final value determines the outcome:
 
-| Result        | Name                 | Prose                | Stress point? |
-| ------------- | -------------------- | -------------------- | ------------- |
-| `-6 or less`  | Catastrophic Failure | You fail, and ...    | Yes           |
-| `-5 to 0 `    | Failure              | You fail, unless ... | Yes on fail   |
-| `  0 to 5 `   | Narrow Success       | You succeed, but ... | No            |
-| ` 6 to 11`    | Success              | You succeed          | No            |
-| ` 12 or more` | Great Success        | You succeed, and ... | No            |
+| Result        | Name                 | Prose                |
+| ------------- | -------------------- | -------------------- |
+| `-6 or less`  | Catastrophic Failure | You fail, and ...    |
+| `-5 to 0 `    | Failure              | You fail, unless ... |
+| `  0 to 5 `   | Narrow Success       | You succeed, but ... |
+| ` 6 to 11`    | Success              | You succeed          |
+| ` 12 or more` | Great Success        | You succeed, and ... |
 ## Disadvantages
 When you declare an _Advantage_ for a die, the DM can invoke one of your _Weaknesses_, one of your _Problems_, or a _Situation_ to counter that Advantage. You may then declare a new _Advantage_ to use for that die.
 ## Sacrifice an Advantage
