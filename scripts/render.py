@@ -8,17 +8,30 @@ def main():
     file_index: dict[str, str] = {}
 
     for (path, dirs, files) in walk("World"):
-        # print(path, dirs, files)
+        page_index = []
         for file in files:
             name, ending, *_ = file.split('.')
             if ending == "md":
                 file_index[name] = path.replace("\\", "/") + "/" + file
+                page_index.append(f'<li><a href="{file_index[name]}">{name}</a>')
+        for dir in dirs:
+            href = path.replace("\\", "/") + "/" + dir + "/index.html"
+            page_index.append(f'<li><a href="{href}">{dir}</a>')
+
+        makedirs("docs/" + path, exist_ok=True)
+        with open("docs/" + path + "/index.html", mode="w+") as i:
+            i.write(header)
+            i.write("<body><ul>")
+            i.write("\n".join(page_index))
+            i.write("</ul></body>")
+
 
 
     for file, path in file_index.items():
         with open(path) as md:
             text = md.read()
 
+        text = f'<h1>{file}</h1>' + text
         text = insert_links(text, file_index)
 
         rendered = markdown(text)
@@ -27,7 +40,7 @@ def main():
         open("docs/" + path.replace(".md", ".html"), mode="w+").write(header + "<body>\n" + rendered + "\n</body>\n")
 
 header = """<head>
-<link rel="styleshhet" href="/Thousndoor/style.css">
+<link rel="stylesheet" href="/Thousndoor/style.css">
 </head>
 """
 
