@@ -1,21 +1,48 @@
 from os import walk, makedirs
 from markdown import markdown
 from pathlib import Path
+import re
 
-file_index: dict[str, str] = {}
+def main():
 
-for (path, dirs, files) in walk("World"):
-    # print(path, dirs, files)
-    for file in files:
-        name, ending, *_ = file.split('.')
-        if ending == "md":
-            file_index[name] = path.replace("\\", "/") + "/" + file
+    file_index: dict[str, str] = {}
+
+    for (path, dirs, files) in walk("World"):
+        # print(path, dirs, files)
+        for file in files:
+            name, ending, *_ = file.split('.')
+            if ending == "md":
+                file_index[name] = path.replace("\\", "/") + "/" + file
 
 
-for file, path in file_index.items():
-    with open(path) as md:
-        text = md.read()
-    rendered = markdown(text)
-    parent = str(Path(path).parent)
-    makedirs("html/" + parent, exist_ok=True)
-    open("html/" + path.replace(".md", ".html"), mode="w+").write(rendered)
+    for file, path in file_index.items():
+        with open(path) as md:
+            text = md.read()
+
+        text = insert_links(text, file_index)
+
+        rendered = markdown(text)
+        parent = str(Path(path).parent)
+        makedirs("html/" + parent, exist_ok=True)
+        open("html/" + path.replace(".md", ".html"), mode="w+").write(rendered)
+
+link_regex = re.compile(r"\[\[([\w\s]*)\]\]")
+
+def insert_links(markdown: str, index: dict[str, str]) -> str: 
+    links = re.finditer(link_regex, markdown)
+    for link in links:
+        target = link.group(1)
+        if target in index:
+            href = index[target].replace(".md", ".html")
+            html = f'<a href="/{href}">{target}</a>'
+        else:
+            html = f'<span class="dead-link">{target}</span>'
+        
+        print(link.group(0), "->", html)
+        
+        markdown = markdown.replace(link.group(0), html)
+
+    return markdown
+
+if __name__ == "__main__":
+    main()
