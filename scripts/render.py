@@ -44,17 +44,18 @@ header = """<head>
 </head>
 """
 
-link_regex = re.compile(r"\[\[([\w\s]*)\]\]")
+link_regex = re.compile(r"\[\[([\w\s']*)\]\]|\[([\w\s']*)\]\(([\w\s']*)\)")
 
 def insert_links(markdown: str, index: dict[str, str]) -> str: 
     links = re.finditer(link_regex, markdown)
     for link in links:
-        target = link.group(1)
+        text = link.group(1)
+        target = link.group(2) or text
         if target in index:
             href = index[target].replace(".md", ".html")
-            html = f'<a href="/Thousndoor/{href}">{target}</a>'
+            html = f'<a href="/Thousndoor/{href}">{text}</a>'
         else:
-            html = f'<span class="dead-link">{target}</span>'
+            html = f'<span class="dead-link">{text}</span>'
         
         print(link.group(0), "->", html)
         
