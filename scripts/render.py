@@ -23,8 +23,8 @@ def main():
 
         rendered = markdown(text)
         parent = str(Path(path).parent)
-        makedirs("html/" + parent, exist_ok=True)
-        open("html/" + path.replace(".md", ".html"), mode="w+").write(rendered)
+        makedirs("docs/" + parent, exist_ok=True)
+        open("docs/" + path.replace(".md", ".html"), mode="w+").write(rendered)
 
 link_regex = re.compile(r"\[\[([\w\s]*)\]\]")
 
