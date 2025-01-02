@@ -24,7 +24,12 @@ def main():
         rendered = markdown(text)
         parent = str(Path(path).parent)
         makedirs("docs/" + parent, exist_ok=True)
-        open("docs/" + path.replace(".md", ".html"), mode="w+").write(rendered)
+        open("docs/" + path.replace(".md", ".html"), mode="w+").write(header + "<body>\n" + rendered + "\n</body>\n")
+
+header = """<head>
+<link rel="styleshhet" href="/Thousndoor/style.css">
+</head>
+"""
 
 link_regex = re.compile(r"\[\[([\w\s]*)\]\]")
 
