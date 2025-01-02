@@ -34,7 +34,7 @@ def insert_links(markdown: str, index: dict[str, str]) -> str:
         target = link.group(1)
         if target in index:
             href = index[target].replace(".md", ".html")
-            html = f'<a href="/{href}">{target}</a>'
+            html = f'<a href="/Thousndoor/{href}">{target}</a>'
         else:
             html = f'<span class="dead-link">{target}</span>'
         
