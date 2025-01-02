@@ -13,7 +13,7 @@ def main():
             name, ending, *_ = file.split('.')
             if ending == "md":
                 file_index[name] = path.replace("\\", "/") + "/" + file
-                page_index.append(f'<li><a href="/Thousndoor/{file_index[name]}">{name}</a>')
+                page_index.append(f'<li><a href="/Thousndoor/{file_index[name].replace(".md", ".html")}">{name}</a>')
         for dir in dirs:
             href = path.replace("\\", "/") + "/" + dir + "/index.html"
             page_index.append(f'<li><a href="/Thousndoor/{href}">{dir}</a>')
