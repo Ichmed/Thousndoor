@@ -37,8 +37,8 @@ def main():
             text = md.read()
 
         # text = html.escape(text)
-        text = markdown(text)
         text = insert_links(text, file_index)
+        text = markdown(text)
         parent = str(Path(path).parent)
         makedirs("docs/" + parent, exist_ok=True)
 
