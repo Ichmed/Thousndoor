@@ -20,10 +20,12 @@ def main():
             page_index.append(f'<li><a href="/Thousndoor/{href}">{dir}</a>')
 
         makedirs("docs/" + path, exist_ok=True)
+        pages = "\n".join(page_index).encode('ascii', 'xmlcharrefreplace').decode()
+        print(pages)
         with open("docs/" + path + "/index.html", mode="w+") as i:
             i.write(header)
             i.write("<body><ul>")
-            i.write("\n".join(page_index))
+            i.write(pages)
             i.write("</ul></body>")
 
 
@@ -52,7 +54,7 @@ def main():
             "content": rendered
         }
 
-        open("docs/" + path.replace(".md", ".html"), mode="w+").write(template.format(**data))
+        open("docs/" + path.replace(".md", ".html"), mode="w+").write(template.format(**data).encode('ascii', 'xmlcharrefreplace').decode())
 
 header = """<head>
 <link rel="stylesheet" href="/Thousndoor/style.css">
@@ -80,3 +82,4 @@ def insert_links(markdown: str, index: dict[str, str]) -> str:
 
 if __name__ == "__main__":
     main()
+    # print("ä".encode("utf-8", "xmlcharrefreplace").decode())
