@@ -25,7 +25,7 @@ def main():
         with open("docs/" + path + "/index.html", mode="w+") as i:
             i.write(header)
             i.write("<body>")
-            i.write(make_breadcrumbs(path, True))
+            i.write(make_breadcrumbs(path, False))
             i.write("<ul>")
             i.write(pages)
             i.write("</ul></body>")
@@ -43,7 +43,7 @@ def main():
         makedirs("docs/" + parent, exist_ok=True)
 
         data = {
-            "breadcrumbs": make_breadcrumbs(path, False),
+            "breadcrumbs": make_breadcrumbs(path, True),
             "title": file,
             "content": text
         }
