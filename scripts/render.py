@@ -2,6 +2,7 @@ from os import walk, makedirs
 from markdown import markdown
 from pathlib import Path
 import re
+import html
 
 def main():
 
@@ -33,9 +34,8 @@ def main():
         with open(path) as md:
             text = md.read()
 
-
         text = insert_links(text, file_index)
-
+        text = html.escape(text)
         rendered = markdown(text)
         parent = str(Path(path).parent)
         makedirs("docs/" + parent, exist_ok=True)
@@ -44,7 +44,7 @@ def main():
         print(breadcrumbs)
         breadcrumbs = [f'<a href={"/".join([".."] * (len(breadcrumbs) - i - 1) + ["."])}>{n}</a>' for i, n in enumerate(breadcrumbs)]
         print(breadcrumbs)
-        breadcrumbs = '<span class="breadcrumb-sep"> &lt; </span>'.join(breadcrumbs)
+        breadcrumbs = '<span class="breadcrumb-sep"> &gt; </span>'.join(breadcrumbs)
 
         data = {
             "breadcrumbs": breadcrumbs,
