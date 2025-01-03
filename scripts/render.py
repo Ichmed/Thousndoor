@@ -77,9 +77,9 @@ def insert_links(markdown: str, index: dict[str, str]) -> str:
 
 def make_breadcrumbs(path) -> str:
     print("making breadcrumbs for", path)
-    breadcrumbs = path.split("/")[:-1]
+    *breadcrumbs, tail = path.split("/")
     breadcrumbs = [f'<a href={"/".join([".."] * (len(breadcrumbs) - i - 1) + ["."])}>{n}</a>' for i, n in enumerate(breadcrumbs)]
-    return '<span class="breadcrumb-sep"> &gt; </span>'.join(breadcrumbs)
+    return '<span class="breadcrumb-sep"> &gt; </span>'.join(breadcrumbs) + " &gt " + tail.split('.')[0]
 
 if __name__ == "__main__":
     main()
