@@ -21,10 +21,11 @@ def main():
 
         makedirs("docs/" + path, exist_ok=True)
         pages = "\n".join(page_index).encode('ascii', 'xmlcharrefreplace').decode()
-        print(pages)
         with open("docs/" + path + "/index.html", mode="w+") as i:
             i.write(header)
-            i.write("<body><ul>")
+            i.write("<body>")
+            i.write(make_breadcrumbs(path))
+            i.write("<ul>")
             i.write(pages)
             i.write("</ul></body>")
 
@@ -36,22 +37,17 @@ def main():
         with open(path) as md:
             text = md.read()
 
-        text = html.escape(text)
+        # text = html.escape(text)
+        text = markdown(text)
         text = insert_links(text, file_index)
-        rendered = markdown(text)
         parent = str(Path(path).parent)
         makedirs("docs/" + parent, exist_ok=True)
 
-        breadcrumbs = path.split("/")[:-1]
-        print(breadcrumbs)
-        breadcrumbs = [f'<a href={"/".join([".."] * (len(breadcrumbs) - i - 1) + ["."])}>{n}</a>' for i, n in enumerate(breadcrumbs)]
-        print(breadcrumbs)
-        breadcrumbs = '<span class="breadcrumb-sep"> &gt; </span>'.join(breadcrumbs)
 
         data = {
-            "breadcrumbs": breadcrumbs,
+            "breadcrumbs": make_breadcrumbs(path),
             "title": file,
-            "content": rendered
+            "content": text
         }
 
         open("docs/" + path.replace(".md", ".html"), mode="w+").write(template.format(**data).encode('ascii', 'xmlcharrefreplace').decode())
@@ -73,13 +69,15 @@ def insert_links(markdown: str, index: dict[str, str]) -> str:
             html = f'<a href="/Thousndoor/{href}">{text}</a>'
         else:
             html = f'<span class="dead-link">{text}</span>'
-        
-        print(link.group(0), "->", html)
-        
+                
         markdown = markdown.replace(link.group(0), html)
 
     return markdown
 
+def make_breadcrumbs(path) -> str:    
+    breadcrumbs = path.split("/")[:-1]
+    breadcrumbs = [f'<a href={"/".join([".."] * (len(breadcrumbs) - i - 1) + ["."])}>{n}</a>' for i, n in enumerate(breadcrumbs)]
+    return '<span class="breadcrumb-sep"> &gt; </span>'.join(breadcrumbs)
+
 if __name__ == "__main__":
     main()
-    # print("ä".encode("utf-8", "xmlcharrefreplace").decode())
