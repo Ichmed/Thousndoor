@@ -25,7 +25,7 @@ def main():
         with open("docs/" + path + "/index.html", mode="w+") as i:
             i.write(header)
             i.write("<body>")
-            i.write(make_breadcrumbs(path + "/index"))
+            i.write(make_breadcrumbs(path, True))
             i.write("<ul>")
             i.write(pages)
             i.write("</ul></body>")
@@ -43,7 +43,7 @@ def main():
         makedirs("docs/" + parent, exist_ok=True)
 
         data = {
-            "breadcrumbs": make_breadcrumbs(path),
+            "breadcrumbs": make_breadcrumbs(path, False),
             "title": file,
             "content": text
         }
@@ -72,10 +72,10 @@ def insert_links(markdown: str, index: dict[str, str]) -> str:
 
     return markdown
 
-def make_breadcrumbs(path) -> str:
+def make_breadcrumbs(path, include_tail) -> str:
     print("making breadcrumbs for", path)
     *breadcrumbs, tail = path.split("/")
-    breadcrumbs = [f'<a href={"/".join([".."] * (len(breadcrumbs) - i - 1) + ["."])}>{n}</a>' for i, n in enumerate(breadcrumbs)]
+    breadcrumbs = [f'<a href={"/".join([".."] * (len(breadcrumbs) - i - (1 if include_tail else 2)) + ["."])}>{n}</a>' for i, n in enumerate(breadcrumbs)]
     return '<span class="breadcrumb-sep"> &gt; </span>'.join(breadcrumbs + [tail.split('.')[0]])
 
 if __name__ == "__main__":
