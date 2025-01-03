@@ -9,14 +9,15 @@ def main():
     file_index: dict[str, str] = {}
 
     for (path, dirs, files) in walk("World"):
+        path = path.replace("\\", "/")
         page_index = []
         for file in files:
             name, ending, *_ = file.split('.')
             if ending == "md":
-                file_index[name] = path.replace("\\", "/") + "/" + file
+                file_index[name] = path + "/" + file
                 page_index.append(f'<li><a href="/Thousndoor/{file_index[name].replace(".md", ".html")}">{name}</a>')
         for dir in dirs:
-            href = path.replace("\\", "/") + "/" + dir + "/index.html"
+            href = path + "/" + dir + "/index.html"
             page_index.append(f'<li><a href="/Thousndoor/{href}">{dir}</a>')
 
         makedirs("docs/" + path, exist_ok=True)
@@ -74,7 +75,8 @@ def insert_links(markdown: str, index: dict[str, str]) -> str:
 
     return markdown
 
-def make_breadcrumbs(path) -> str:    
+def make_breadcrumbs(path) -> str:
+    print("making breadcrumbs for", path)
     breadcrumbs = path.split("/")[:-1]
     breadcrumbs = [f'<a href={"/".join([".."] * (len(breadcrumbs) - i - 1) + ["."])}>{n}</a>' for i, n in enumerate(breadcrumbs)]
     return '<span class="breadcrumb-sep"> &gt; </span>'.join(breadcrumbs)
