@@ -48,7 +48,7 @@ def main():
             "content": text
         }
 
-        open("docs/" + path.replace(".md", ".html"), mode="w+").write(template.format(**data).encode('ascii', 'xmlcharrefreplace').decode())
+        open("docs/" + path.replace(".md", ".html"), mode="wb").write(template.format(**data).encode('ascii', 'xmlcharrefreplace'))
 
 header = """<head>
 <link rel="stylesheet" href="/Thousndoor/style.css">
