@@ -28,17 +28,31 @@ def main():
 
     template = open("scripts/text.html.template").read()
 
+
     for file, path in file_index.items():
         with open(path) as md:
             text = md.read()
 
-        text = f'<h1>{file}</h1>' + text
+
         text = insert_links(text, file_index)
 
         rendered = markdown(text)
         parent = str(Path(path).parent)
         makedirs("docs/" + parent, exist_ok=True)
-        open("docs/" + path.replace(".md", ".html"), mode="w+").write(header + "<body>\n" + rendered + "\n</body>\n")
+
+        breadcrumbs = path.split("/")[:-1]
+        print(breadcrumbs)
+        breadcrumbs = [f'<a href={"/".join([".."] * (len(breadcrumbs) - i - 1) + ["."])}>{n}</a>' for i, n in enumerate(breadcrumbs)]
+        print(breadcrumbs)
+        breadcrumbs = '<span class="breadcrumb-sep">/</span>'.join(breadcrumbs)
+
+        data = {
+            "breadcrumbs": breadcrumbs,
+            "title": file,
+            "content": rendered
+        }
+
+        open("docs/" + path.replace(".md", ".html"), mode="w+").write(template.format(**data))
 
 header = """<head>
 <link rel="stylesheet" href="/Thousndoor/style.css">

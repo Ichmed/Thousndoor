@@ -3,8 +3,8 @@
         <link rel="stylesheet" href="/Thousndoor/style.css">
     </head>
     <body>
-        {breadcrumbs}
-        {title}
+        <div class="breadcrumbs">{breadcrumbs}</div>
+        <h1 class="title">{title}</h1>
         {content}
     </body>
 </html>
