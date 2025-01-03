@@ -26,6 +26,7 @@ def main():
             i.write("</ul></body>")
 
 
+    template = open("scripts/text.html.template").read()
 
     for file, path in file_index.items():
         with open(path) as md:
