@@ -44,7 +44,7 @@ def main():
         print(breadcrumbs)
         breadcrumbs = [f'<a href={"/".join([".."] * (len(breadcrumbs) - i - 1) + ["."])}>{n}</a>' for i, n in enumerate(breadcrumbs)]
         print(breadcrumbs)
-        breadcrumbs = '<span class="breadcrumb-sep">/</span>'.join(breadcrumbs)
+        breadcrumbs = '<span class="breadcrumb-sep"> &lt; </span>'.join(breadcrumbs)
 
         data = {
             "breadcrumbs": breadcrumbs,
