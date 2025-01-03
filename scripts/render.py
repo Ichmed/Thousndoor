@@ -25,14 +25,12 @@ def main():
         with open("docs/" + path + "/index.html", mode="w+") as i:
             i.write(header)
             i.write("<body>")
-            i.write(make_breadcrumbs(path))
+            i.write(make_breadcrumbs(path + "/index"))
             i.write("<ul>")
             i.write(pages)
             i.write("</ul></body>")
 
-
     template = open("scripts/text.html.template").read()
-
 
     for file, path in file_index.items():
         with open(path) as md:
@@ -43,7 +41,6 @@ def main():
         text = insert_links(text, file_index)
         parent = str(Path(path).parent)
         makedirs("docs/" + parent, exist_ok=True)
-
 
         data = {
             "breadcrumbs": make_breadcrumbs(path),
