@@ -38,7 +38,7 @@ def main():
 
         # text = html.escape(text)
         text = insert_links(text, file_index)
-        text = markdown(text, extras=['nl2br', 'callouts', 'cuddled-lists'])
+        text = markdown(text, extras=['nl2br', 'smarty-pants', 'cuddled-lists', 'tag-friendly'])
         parent = str(Path(path).parent)
         makedirs("docs/" + parent, exist_ok=True)
 
