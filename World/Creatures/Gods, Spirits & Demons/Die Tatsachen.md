@@ -1,5 +1,5 @@
 **Alignment:** Full Material
-> [!prose] Boden
+> [!prose]
 > Götter Geister hohe Spheren
 > Der Mensch nach Recht und Ordnung sucht
 > Er will sich selbst den Kosmos lehren.
