@@ -1,5 +1,5 @@
 from os import walk, makedirs
-from markdown import markdown
+from markdown2 import markdown
 from pathlib import Path
 import re
 import html
@@ -38,7 +38,7 @@ def main():
 
         # text = html.escape(text)
         text = insert_links(text, file_index)
-        text = markdown(text)
+        text = markdown(text, extras=['nl2br', 'callouts', 'cuddled-lists'])
         parent = str(Path(path).parent)
         makedirs("docs/" + parent, exist_ok=True)
 
