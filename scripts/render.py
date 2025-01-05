@@ -2,7 +2,6 @@ from os import walk, makedirs
 from markdown2 import markdown
 from pathlib import Path
 import re
-import html
 
 def main():
 
