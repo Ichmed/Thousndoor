@@ -58,19 +58,17 @@ header = """<head>
 link_regex = re.compile(r"\[\[([\w\s']*)\]\]|\[([\w\s']*)\]\(([\w\s']*)\)")
 
 def insert_links(markdown: str, index: dict[str, str]) -> str: 
-    links = re.finditer(link_regex, markdown)
-    for link in links:
-        text = link.group(1)
-        target = link.group(2) or text
+    
+    def sub(match: re.Match) -> str:
+        text = match.group(1)
+        target = match.group(2) or text
         if target in index:
             href = index[target].replace(".md", ".html")
-            html = f'<a href="/Thousndoor/{href}">{text}</a>'
+            return f'<a href="/Thousndoor/{href}">{text}</a>'
         else:
-            html = f'<span class="dead-link">{text}</span>'
-                
-        markdown = markdown.replace(link.group(0), html)
+            return f'<span class="dead-link">{text}</span>'
 
-    return markdown
+    return link_regex.sub(sub, markdown)
 
 def make_breadcrumbs(path, include_tail) -> str:
     print("making breadcrumbs for", path)
