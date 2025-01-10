@@ -5,4 +5,4 @@
 > Torrents of greenish white fog waft out of the mountain, coating the base of the rib cage and flowing into the valley below, from where they leave in river-like tendrils.
 > At the top of the mountain, appearing almost as a side note, a tower, seemingly hewn from the skull of the giant, reaches skyward. Its structure resembles a cancerous bone in color and texture, twisting and coiling around itself with organic structures and razor sharp edges. Jet black stones are embedded into its side, like shrapnel launched by an incomprehensibly large explosion.
 
-The immortal wound was created when [[The Unmade One]] performed [[The Blasphemy]], slaying himself and the [[God Beast of Yorn]], in an attempt to achieve immortality
+The immortal wound was created when [[The Unmade One]] performed [[The Blasphemy]], slaying himself and the [[God Beast of Yorn]].
