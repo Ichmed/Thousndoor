@@ -5,5 +5,3 @@ The ruling body of [[Thousndoor]]
 - [[Sorka Fleet]]
 - [[Wasura Yoke]]
 - [[Flowing Houses]]
-
-#todo/better-name 
