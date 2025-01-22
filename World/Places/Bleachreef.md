@@ -1,0 +1,1 @@
+A barren area located in the south east of the [[Eternal Forest]]. The tides have damaged and cracked open the bone of [Irgos](Cadaver%20of%20Irgos) here, revealing the spongy matter bellow. Thick streams of [[Necrolithic Mist]] waft from the marrow, carrying [[Revenants]] of sea life through the air.
