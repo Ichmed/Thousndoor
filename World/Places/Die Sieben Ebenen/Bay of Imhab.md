@@ -1,0 +1,2 @@
+![[Pasted image 20250122225800.png]]
+A harsh grassland bordering the sea. Here the [[Kuoth]] used to flow into the ocean after winding its way through the [[Sieben Ebenen]]. After the opening of the [[Gate of Gahir]] the river now flows into [[Thousndoor]] instead, where it ends up in the [[Untermeer]].
