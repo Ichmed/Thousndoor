@@ -3,7 +3,7 @@
 		{"id":"ecf4f37662fe77fe","type":"group","x":-1400,"y":-760,"width":3840,"height":2774,"color":"6","label":"Thousndoor 'Proper'"},
 		{"id":"bae942a7b63dca40","type":"group","x":-6200,"y":-1330,"width":2120,"height":4450,"label":"Mirrored Ocean"},
 		{"id":"f36b7fb2528e6d64","type":"group","x":3200,"y":-120,"width":3229,"height":1633,"label":"Die Sieben Ebenen"},
-		{"id":"4396b9063f87dd7b","type":"group","x":1840,"y":2720,"width":2871,"height":1680,"color":"#6a63ca","label":"Untitled group"},
+		{"id":"4396b9063f87dd7b","type":"group","x":1840,"y":2720,"width":2871,"height":1760,"color":"#6a63ca","label":"Untitled group"},
 		{"id":"be6c7a2e3f18cbeb","type":"group","x":-6116,"y":820,"width":1951,"height":2195,"label":"Temperate Side"},
 		{"id":"1df61d346aaa4d9c","type":"group","x":-920,"y":1200,"width":3200,"height":760,"color":"#6f0667","label":"Unterstadt"},
 		{"id":"0b8bcc607282c126","type":"group","x":-3720,"y":200,"width":1880,"height":1180,"label":"Yyrika"},
@@ -36,8 +36,6 @@
 		{"id":"137f45e4a1dda956","type":"file","file":"Thousndoor/World/Places/Galleries of Frost.md","x":2040,"y":3000,"width":400,"height":400},
 		{"id":"557cb3cedeb01e27","type":"text","text":"Portal","x":2360,"y":-1360,"width":250,"height":60,"color":"5"},
 		{"id":"ec5dcd9bcd307ffc","type":"text","text":"Long distance","x":2360,"y":-1270,"width":250,"height":60,"color":"1"},
-		{"id":"3aa5d3bdc73f8b77","type":"file","file":"Thousndoor/World/Places/_WRK_ WALRUS Ocean.md","x":4216,"y":3560,"width":400,"height":792,"color":"#000438"},
-		{"id":"da4f3d41da148505","type":"file","file":"Thousndoor/World/Places/Folded Fjords.md","x":3136,"y":2880,"width":400,"height":400},
 		{"id":"d9dd17f70f26d42e","type":"file","file":"Thousndoor/World/Places/Districts/Waldenfort.md","x":-900,"y":-670,"width":400,"height":470,"color":"6"},
 		{"id":"587f51ba89094c81","type":"file","file":"Thousndoor/World/Places/Thousndoor.md","x":1960,"y":-670,"width":400,"height":400,"color":"6"},
 		{"id":"badd399d26b67fe3","type":"file","file":"Thousndoor/World/Places/Die Sieben Ebenen/Bay of Imhab.md","x":3360,"y":895,"width":400,"height":400},
@@ -56,11 +54,13 @@
 		{"id":"5ff1940dbcff3a4d","type":"file","file":"Thousndoor/World/Places/Districts/Dead District.md","x":-900,"y":1360,"width":400,"height":280,"color":"5"},
 		{"id":"98ba8d5796b04db8","type":"file","file":"Thousndoor/World/Places/Drowning Shores.md","x":4216,"y":2760,"width":400,"height":760},
 		{"id":"ccd261fc62f44047","type":"file","file":"Thousndoor/World/Places/Wiedenwald.md","x":-2600,"y":-2400,"width":400,"height":400},
-		{"id":"687b2ef89f11643d","type":"file","file":"Thousndoor/World/Places/The Labyrinth.md","x":0,"y":2400,"width":400,"height":400}
+		{"id":"687b2ef89f11643d","type":"file","file":"Thousndoor/World/Places/The Labyrinth.md","x":0,"y":2400,"width":400,"height":400},
+		{"id":"3aa5d3bdc73f8b77","type":"file","file":"Thousndoor/World/Places/_WRK_ WALRUS Ocean.md","x":4216,"y":3606,"width":400,"height":792,"color":"#000438"},
+		{"id":"da4f3d41da148505","type":"file","file":"Thousndoor/World/Places/Folded Fjords.md","x":3056,"y":2880,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"9b90b744dbc0401d","fromNode":"d9dd17f70f26d42e","fromSide":"top","toNode":"487c416b97b8fb28","toSide":"right","toEnd":"none","color":"5"},
-		{"id":"172b6677ed299050","fromNode":"a078a151d1eb308a","fromSide":"bottom","toNode":"da4f3d41da148505","toSide":"left","fromEnd":"arrow","color":"5"},
+		{"id":"172b6677ed299050","fromNode":"a078a151d1eb308a","fromSide":"bottom","toNode":"da4f3d41da148505","toSide":"top","fromEnd":"arrow","color":"5"},
 		{"id":"5416d24bb2928371","fromNode":"c1fcd7ec98fd767c","fromSide":"left","toNode":"ccd261fc62f44047","toSide":"bottom","color":"5"},
 		{"id":"ab3f0f981a94c5b2","fromNode":"1999478884b423e2","fromSide":"top","toNode":"42c7247a6101e15e","toSide":"bottom"},
 		{"id":"10f591f98ee994be","fromNode":"ecf4f37662fe77fe","fromSide":"right","toNode":"f2fd15daacbabc08","toSide":"left","color":"5"},
