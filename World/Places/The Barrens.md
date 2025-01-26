@@ -1,0 +1,1 @@
+The landscape outside of [[Central Thousndoor]] is a vast endless seeming expanse of grey dust, covering an uneven arrangement of [[Sehstein]]. It seems to be devoid of all life and stretches on further than anybody has ever dared to explore.
