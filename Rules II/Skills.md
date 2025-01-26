@@ -33,4 +33,9 @@
 | Perception  |             |
 | Deception   |             |
 | Adaption    |             |
-|             |             |
+| Empathy     |             |
+| Cruelty     |             |
+
+| Name | Description |
+| ---- | ----------- |
+|      |             |
