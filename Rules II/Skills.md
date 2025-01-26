@@ -10,3 +10,27 @@
 | Boost    | Provide your allies with magical or mundane blessings       |
 | Curse    | Magically or mundainly sabotage your foes                   |
 | Tinker   | Modify Equipment or Machinery                               |
+
+
+| Name     | Description |
+| -------- | ----------- |
+| Move     |             |
+| Talk     |             |
+| Dream    |             |
+| Fight    |             |
+| Doom     |             |
+| Sooth    |             |
+| Tinker   |             |
+| Perceive |             |
+| Endure   |             |
+| Know     |             |
+
+| Name        | Description |
+| ----------- | ----------- |
+| Aggression  |             |
+| Melancholia |             |
+| Fabulation  |             |
+| Perception  |             |
+| Deception   |             |
+| Adaption    |             |
+|             |             |
