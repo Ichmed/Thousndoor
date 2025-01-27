@@ -11,6 +11,18 @@
 | Curse    | Magically or mundainly sabotage your foes                   |
 | Tinker   | Modify Equipment or Machinery                               |
 
+| Name     | Description                                                |
+| -------- | ---------------------------------------------------------- |
+| Talk     | Convince, impress or lie to people                         |
+| Move     | Move fast or in unexpected ways such as climbing or flying |
+| Fight    | Punch, slash, shoot, dodge, block and spit                 |
+| Endure   | Resist physical and psychological _Stress_                 |
+| Sabotage | Curse an enemy, pick a lock                                |
+| Restore  | Heal a wound, repair a machine                             |
+| Improve  | Buff allies, boost an engine or sharpen a sword            |
+| Perceive | See, hear and feel your surroundings                       |
+| Know     | Draw from street or book smarts or use magical divination  |
+| Intuit   | Sense peoples intentions, navigate dreams                  |
 
 | Name     | Description |
 | -------- | ----------- |
