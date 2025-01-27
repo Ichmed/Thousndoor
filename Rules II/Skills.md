@@ -17,7 +17,7 @@
 | Move     | Move fast or in unexpected ways such as climbing or flying |
 | Fight    | Punch, slash, shoot, dodge, block and spit                 |
 | Endure   | Resist physical and psychological _Stress_                 |
-| Sabotage | Curse an enemy, pick a lock                                |
+| Disrupt  | Curse an enemy, pick a lock                                |
 | Restore  | Heal a wound, repair a machine                             |
 | Improve  | Buff allies, boost an engine or sharpen a sword            |
 | Perceive | See, hear and feel your surroundings                       |
