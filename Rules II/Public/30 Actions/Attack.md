@@ -10,14 +10,13 @@ Roll _Fight_, the _Difficulty_ depends on the kind and amount of enemies. On a s
 | 6          | Muscular Guy                |
 | 12         | Soldier, City Guard         |
 | 18         | Troll                       |
+## Group Sizes
+The difficulty of a fight increases when fighting multiple enemies at once. Increase the _Difficulty_ by 6 for every power of 2 of enemies.
 
-The final value determines the outcome:
-
-| Result        | Name                 | Prose                |
-| ------------- | -------------------- | -------------------- |
-| `-6 or less`  | Catastrophic Failure | You fail, and ...    |
-| `-5 to 0 `    | Failure              | You fail, unless ... |
-| `  0 to 5 `   | Narrow Success       | You succeed, but ... |
-| ` 6 to 11`    | Success              | You succeed          |
-| ` 12 or more` | Great Success        | You succeed, and ... |
-## Disadvantages
+| Amount | Difficulty increase |
+| ------ | ------------------- |
+| 1      | +0                  |
+| 2-3    | +6                  |
+| 4-7    | +12                 |
+| 8-15   | +18                 |
+| ...    | ...                 |
