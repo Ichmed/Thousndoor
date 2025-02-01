@@ -31,7 +31,7 @@ def build_dir(dir, file_index):
             i.write(make_breadcrumbs(path, False))
             i.write("<ul>")
             i.write(pages)
-            i.write("</ul></body>")
+            i.write("</ul><span id=\"placeholder\"></span></body>")
 
     template = open("scripts/text.html.template").read()
 
@@ -51,7 +51,12 @@ def build_dir(dir, file_index):
             "content": text
         }
 
-        open("docs/" + path.replace(".md", ".html"), mode="w+").write(template.format(**data).encode('utf-8', 'xmlcharrefreplace').decode())
+
+        final = template.format(**data).encode('utf-8', 'xmlcharrefreplace').decode()
+        # if Path("docs/" + path.replace(".md", ".html")).exists():
+        #     final = open("docs/" + path.replace(".md", ".html")).read().replace("<span id=\"placeholder\"></span>", final)
+
+        open("docs/" + path.replace(".md", ".html"), mode="w+").write(final)
 
 header = """<head>
 <link rel="stylesheet" href="/Thousndoor/style.css">
