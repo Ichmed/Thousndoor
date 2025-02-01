@@ -7,7 +7,11 @@ def main():
 
     file_index: dict[str, str] = {}
 
-    for (path, dirs, files) in walk("World"):
+    build_dir("World", file_index)
+    build_dir("Rules II/Public", file_index)
+
+def build_dir(dir, file_index):
+    for (path, dirs, files) in walk(dir):
         path = path.replace("\\", "/")
         page_index = []
         for file in files:
