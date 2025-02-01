@@ -24,6 +24,19 @@
 | Know     | Draw from street or book smarts or use magical divination  |
 | Intuit   | Sense peoples intentions, navigate dreams                  |
 
+| Name     | Description                                                |
+| -------- | ---------------------------------------------------------- |
+| Talk     | Convince, impress or lie to people                         |
+| Move     | Move fast or in unexpected ways such as climbing or flying |
+| Fight    | Punch, slash, shoot, dodge, block and spit                 |
+| Endure   | Resist physical and psychological _Stress_                 |
+| Disrupt  | Curse an enemy, pick a lock                                |
+| Create   | build a house, light a fire                                |
+| Improve  | Heal, boost, sharpen                                       |
+| Perceive | See, hear and feel your surroundings                       |
+| Know     | Draw from street or book smarts or use magical divination  |
+| Intuit   | Sense peoples intentions, navigate dreams                  |
+
 | Name     | Description |
 | -------- | ----------- |
 | Move     |             |
