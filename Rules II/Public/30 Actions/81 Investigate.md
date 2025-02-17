@@ -1,5 +1,5 @@
-(The name and all examples are related to _Sight_ but this action can be used with any sense.)
 Roll *Perceive*.
+(All examples are related to _Sight_ but this action can be used with any sense.)
 
 | Difficulty | Example                                      |
 | ---------- | -------------------------------------------- |
