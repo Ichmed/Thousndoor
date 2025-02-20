@@ -54,4 +54,4 @@ Overall, I rate this place a solid
 so if you are ever anywhere in Niederhaven, look out for that small green door between the tackle whittler and the harpoon smithy.
 
 #### About the Author
-Arzac Silvermead, born in Thousndoor, is a culinary corresponded. He writes the weekly column _Tables and Taverns_, about small and lesser known restaurants in the city, for the _Daily Sprite_ as well as publishing a series of travel journals on his own dime.
+Arzac Silvermead, born in Thousndoor, is a culinary corresponded. He writes the weekly column _Tables and Taverns_, about small and lesser known restaurants in the city, for the _Daily Sprite_. He also publishes a series of travel journals on his own dime.
