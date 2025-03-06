@@ -1,4 +1,3 @@
-**Alignment**: #alignment/death 
 Bestows familiars, remedies and magical abilities in exchange for favors. While he is interested in valuable goods such as souls and sacrifices, he values entertainment above riches. He will often forgive debtors that fail to pay him, if they do so in an entertaining manner.
 
 ## Appearance
