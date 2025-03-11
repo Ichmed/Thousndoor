@@ -1,3 +1,5 @@
+When you try to change your position, and another Character tries to stop you from doing so, you must take the _Reposition_ Action.
+
 Roll _Move_. 
 The _Difficulty_ depends on the kind and amount of enemies. 
 
