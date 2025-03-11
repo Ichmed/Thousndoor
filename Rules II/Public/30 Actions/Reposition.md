@@ -12,4 +12,4 @@ On a Great Success you may do both.
 Perks: Nimble, Cat Burglar, Climbing Equipment
 
 On a success, Flink moves from "The Street" into "The Warehouse".
-On a great success he also get the Position ==In the Rafters==
+On a great success he also gets the Position ==In the Rafters==
