@@ -12,7 +12,7 @@ For each [[Advantage]] you have, you may "keep" one of the dice. For every [[Dis
 | 12     | Hard                                              |
 | 18     | Very Hard                                         |
 
-The Game Master then subtracts the Difficulty of the Action (decided secretly beforehand), based on the resulting number determine the Outcome of your action as follows:
+The Game Master then subtracts the Difficulty of the Action (decided secretly beforehand). Based on the resulting number determine the Outcome of your action as follows:
 
 | Result        | Name                 | Prose                                    |
 | ------------- | -------------------- | ---------------------------------------- |

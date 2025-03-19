@@ -8,6 +8,7 @@ A Character consists of 4 parts:
 - [[Stress Indicators]] Written as 6 pip Indicators and a list of Problems
 	- There is one indicator for Physical Stress and one for Psychological Stress
 	- If an indicator reaches 6, reset it and you gain a Problem
-	- If you would gains a fourth Problem, your character is [[Out of the Game]] instead
+	- If you would gain a fourth Problem, your character is [[Out of the Game]] instead
+	- You can mark Stress on one of your Traits instead
 
 
