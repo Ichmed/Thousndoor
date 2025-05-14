@@ -7,7 +7,7 @@ God Beasts range in size from a shoulder height of 50 meters up to many kilomete
 
 ## Anatomy
 God Beasts are quadrupeds with a shoulder height of 50 meters up to an unknown limit. They are morphologically almost identical to humans with a few noticeable differences: 
-- Their eye sockets are empty and grown over with skin, they posess no nose bone, leading to a skeletal appearance, and have no teeth.
+- Their eye sockets are empty and grown over with skin, they poses no nose bone, leading to a skeletal appearance, and have no teeth.
 - Their shoulders and hips are turned forward and the spine attaches to the back of the skull, like in non humanoid vertebrates. The arms and legs are of similar length, with the arms being slightly longer, leading to an upward tilt of the torso.
 - They lack any reproductive organs, secondary sexual characteristics and have no hair.
 
