@@ -1,0 +1,3 @@
+Created through study of the [[Hilt of Yorn]]. These blades are invisible and intangible, passing through non living material as if it did not exist. When cutting through living matter, the blade does not seem to inflict any wounds. If the blade where to inflict a mortal wound however, all previous injuries dealt to _anyone_ appear at once, killing the victim instantly and injuring all other targets.
+
+Ghostblades can only be used once, after their victim perishes, the blade becomes a mundane sword hilt instead.
