@@ -1,1 +1,1 @@
-A yarn woven from the silk threads of [[Kumonoshi]] silk, that slowly fades into the realm of the dead. Can be used to tether objects on one side of the [[veil]] to things on the other side.
+A yarn woven from threads of [[Kumonoshi]] silk, that slowly fades into the realm of the dead. Can be used to tether objects on one side of the [[veil]] to things on the other side.
