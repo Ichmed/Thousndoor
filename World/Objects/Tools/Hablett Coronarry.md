@@ -1,0 +1,2 @@
+A device implanted in the back of the skull, often with a removable outer shell that covers part of the head.
+Activating the device causes part of the brain to enter REM sleep and thus enables [[Dreamwalking]], while the other half stays alert enough to maintain basic posture, detect threads or deactivate the device.
