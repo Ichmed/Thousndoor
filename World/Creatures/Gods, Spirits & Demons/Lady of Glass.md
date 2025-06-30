@@ -1,0 +1,1 @@
+Bestows the ability to turn invisible or turn to glass.
