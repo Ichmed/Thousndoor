@@ -1,1 +1,1 @@
-Strong fiber spun from [[Solid Clouds]]
+Strong fiber spun from [[Solid Clouds]], due to being interwoven with common fibers such as cotton or linen, they lose most of their buoyancy.
