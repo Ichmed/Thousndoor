@@ -1,0 +1,3 @@
+Short for "quick-use bilateral injection mechanism". A mechanism consisting of two spring loaded needles that can be triggered with a single button press.
+
+[[Quick Bijector]]s are often used by [[Ghoulstitcher]]s to inject [[Necroglutanates]] into two parts at the same time while using their other hand to hold them together. This is mostly done in field-use situations as it is more precis and safer to use fixtures in industrial settings.
