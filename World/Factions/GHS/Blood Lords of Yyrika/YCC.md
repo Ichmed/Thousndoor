@@ -1,0 +1,1 @@
+The Yyrika Carriage Company is a manufacturer of Ghoul drawn carriages based in the [[Groaning Del]]
