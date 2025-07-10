@@ -1,4 +1,4 @@
 ![[Pasted image 20250122225800.png]]
-A harsh grassland bordering the sea. Here the [[Kuoth]] used to flow into the ocean after winding its way through the [[Sieben Ebenen]]. After the opening of the [[Gate of Gahir]] the river now flows into [[Thousndoor]] instead, where it ends up in the [[Untermeer]]. The resulting salination of the ocean has given rise to the regions signature salt ring along the rocky coast.
+A harsh grassland bordering the sea. Here the [[Kuoth]] used to flow into the ocean after winding its way through the [[Seven Plains]]. After the opening of the [[Gate of Gahir]] the river now flows into [[Thousndoor]] instead, where it ends up in the [[Untermeer]]. The resulting salination of the ocean has given rise to the regions signature salt ring along the rocky coast.
 ## Geography
 A flat steppe surrounded by a semicircle of mountains that is open towards the sea. At the center of the plateau lies a great lake that is fed by the [[Kuoth]] and drains into the [[Gate of Gahir]].

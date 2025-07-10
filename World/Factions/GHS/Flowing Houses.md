@@ -4,7 +4,7 @@
 - [[Crocodillians]]
 - Desert [[Carnae]] (Foxes, Jackals)
 ## Geography: 
-[[Sieben Ebenen]] Desert, Floodplanes
+[[Seven Plains]] Desert, Floodplanes
 ## Resources: 
 Wheat, Glass, Limestone, Bronze, Paper
 ## Magic
