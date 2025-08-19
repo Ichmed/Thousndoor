@@ -1,0 +1,1 @@
+A sword bound to the fate of its wielder. The blade is promised to slay its owner one day, but until that time this weapon will try as it might to prevent all bodily harm that comes to its sworn counterpart.
