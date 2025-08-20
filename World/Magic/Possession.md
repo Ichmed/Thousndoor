@@ -1,0 +1,2 @@
+[[Spirit]]s and [[Demon]]s have the ability to infuse their essence into living beings and inanimate objects. Doing so grants the target of the possession certain physical and metaphysical properties. 
+At the same time the [[Spirit]] or [[Demon]] confers an aspect of their personality onto the target, ranging from small changes in demeanor of the host to full unrestricted control of the victim.
