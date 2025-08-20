@@ -1,2 +1,2 @@
 An expansive array of diverse untamed wildernesses filled with spirit animal guides. The geography can include, but is not limited to: jungles, steppes, forests, deserts and tundras.
-By visiting this dreamscape often once can find and befriend a spirit guide which may be summoned to the material world.
+By visiting this [[Dreamscape]] often, one can find and befriend a spirit guide which may be summoned to the material world.

@@ -1,0 +1,1 @@
+A [[Dreamscape]] is Dream that, through whatever means, persists for a long time. It may be visited by the same or multiple people throughout its existence.
