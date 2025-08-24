@@ -17,7 +17,7 @@ The Game Master then subtracts the Difficulty of the Action (decided secretly be
 | Result        | Name                 | Prose                                    |
 | ------------- | -------------------- | ---------------------------------------- |
 | `-6 or less`  | Catastrophic Failure | You fail, and ...                        |
-| `-5 to -1 `   | Failure              | You fail, unless ...                     |
+| `-5 to -1 `   | Failure              | You fail                                 |
 | `0`           | Perfect Landing      | You succeed and gain an Experience point |
 | `  1 to 5 `   | Narrow Success       | You succeed, but ...                     |
 | ` 6 to 11`    | Success              | You succeed                              |
