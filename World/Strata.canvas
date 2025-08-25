@@ -26,7 +26,8 @@
 		{"id":"6b3dccdca9caf1f4","type":"text","text":"Technologists","x":-282,"y":-360,"width":250,"height":60,"color":"6"},
 		{"id":"e8ca865a9ab41689","type":"text","text":"Desert Trolls","x":843,"y":-760,"width":125,"height":370,"color":"5"},
 		{"id":"3f1e4f4345f72906","type":"text","text":"Crocoids","x":843,"y":-390,"width":125,"height":430,"color":"5"},
-		{"id":"74a75e3f54ee4552","type":"text","text":"Burning Church","x":1093,"y":-100,"width":250,"height":200,"color":"1"}
+		{"id":"74a75e3f54ee4552","type":"text","text":"Burning Church","x":1093,"y":-100,"width":250,"height":200,"color":"1"},
+		{"id":"6dc225e884537cd6","type":"text","text":"Time of Dragons","x":1093,"y":-760,"width":250,"height":370,"color":"1"}
 	],
 	"edges":[]
 }
