@@ -2,8 +2,8 @@
 	"nodes":[
 		{"id":"ecf4f37662fe77fe","type":"group","x":-1400,"y":-760,"width":3840,"height":2774,"color":"6","label":"Thousndoor 'Proper'"},
 		{"id":"bae942a7b63dca40","type":"group","x":-6200,"y":-1330,"width":2120,"height":4450,"label":"Mirrored Ocean"},
+		{"id":"4396b9063f87dd7b","type":"group","x":1040,"y":2720,"width":3671,"height":1760,"color":"#6a63ca","label":"Untitled group"},
 		{"id":"f36b7fb2528e6d64","type":"group","x":3200,"y":-120,"width":3229,"height":1633,"label":"Die Sieben Ebenen"},
-		{"id":"4396b9063f87dd7b","type":"group","x":1840,"y":2720,"width":2871,"height":1760,"color":"#6a63ca","label":"Untitled group"},
 		{"id":"be6c7a2e3f18cbeb","type":"group","x":-6116,"y":820,"width":1951,"height":2195,"label":"Temperate Side"},
 		{"id":"1df61d346aaa4d9c","type":"group","x":-920,"y":1200,"width":3200,"height":760,"color":"#6f0667","label":"Unterstadt"},
 		{"id":"0b8bcc607282c126","type":"group","x":-3720,"y":200,"width":1880,"height":1180,"label":"Yyrika"},
@@ -24,7 +24,6 @@
 		{"id":"771e5b3e57e289f5","type":"file","file":"Thousndoor/World/Places/Yyrika/Yyrika Prima.md","x":-3000,"y":320,"width":480,"height":280},
 		{"id":"ad141026773197fe","type":"file","file":"Thousndoor/World/Places/Yyrika/Immortal Wound.md","x":-2680,"y":645,"width":280,"height":150},
 		{"id":"1d41d2006a224c4a","type":"file","file":"Thousndoor/World/Places/Yyrika/Groaning Del.md","x":-3400,"y":1120,"width":400,"height":55},
-		{"id":"ccd261fc62f44047","type":"file","file":"Thousndoor/World/Places/Wiedenwald.md","x":-2600,"y":-2400,"width":400,"height":400},
 		{"id":"1999478884b423e2","type":"file","file":"Thousndoor/World/Places/Waldmeer.md","x":-4783,"y":2536,"width":400,"height":400},
 		{"id":"42c7247a6101e15e","type":"file","file":"Thousndoor/World/Places/Eternal Forest.md","x":-4783,"y":1976,"width":400,"height":284},
 		{"id":"23e7a3009f32c1e1","type":"file","file":"Thousndoor/World/Places/Bleachreef.md","x":-5560,"y":1976,"width":400,"height":284},
@@ -40,11 +39,9 @@
 		{"id":"5d026af622297992","type":"file","file":"Thousndoor/World/Places/Die Sieben Ebenen/Cyclopian Pastures.md","x":4400,"y":895,"width":400,"height":400},
 		{"id":"557cb3cedeb01e27","type":"text","text":"Portal","x":2360,"y":-1360,"width":250,"height":60,"color":"5"},
 		{"id":"ec5dcd9bcd307ffc","type":"text","text":"Long distance","x":2360,"y":-1270,"width":250,"height":60,"color":"1"},
-		{"id":"98ba8d5796b04db8","type":"file","file":"Thousndoor/World/Places/Drowning Shores.md","x":4216,"y":2760,"width":400,"height":760},
 		{"id":"da4f3d41da148505","type":"file","file":"Thousndoor/World/Places/Folded Fjords.md","x":3056,"y":2880,"width":400,"height":400},
-		{"id":"0a140c7307953d93","type":"file","file":"Thousndoor/World/Places/Crawling Banks.md","x":3560,"y":3440,"width":400,"height":332},
+		{"id":"0a140c7307953d93","type":"file","file":"Thousndoor/World/Places/Crawling Banks.md","x":3560,"y":3440,"width":400,"height":340},
 		{"id":"3aa5d3bdc73f8b77","type":"file","file":"Thousndoor/World/Places/_WRK_ WALRUS Ocean.md","x":4216,"y":3606,"width":400,"height":792,"color":"#000438"},
-		{"id":"7d7daba73777e049","type":"file","file":"Thousndoor/World/Places/Gühringen.md","x":2375,"y":-3490,"width":400,"height":400},
 		{"id":"a9a4cd65e2c99c10","type":"file","file":"Thousndoor/World/Places/Die Sieben Ebenen/Ebene 4.md","x":4960,"y":494,"width":400,"height":400},
 		{"id":"47142912ff76090f","type":"file","file":"Thousndoor/World/Places/Die Sieben Ebenen/Seven Plains.md","x":5600,"y":-41,"width":797,"height":1481},
 		{"id":"8df5ca9197d8f540","type":"file","file":"Thousndoor/World/Places/Districts/Jirdanwall.md","x":1960,"y":-200,"width":400,"height":400,"color":"6"},
@@ -60,7 +57,10 @@
 		{"id":"ea4f34b39412784c","type":"file","file":"Thousndoor/World/Places/Districts/Spill.md","x":-100,"y":1535,"width":400,"height":255},
 		{"id":"687b2ef89f11643d","type":"file","file":"Thousndoor/World/Places/The Labyrinth.md","x":0,"y":2400,"width":400,"height":400},
 		{"id":"e1720bf57f4cc38b","type":"file","file":"Thousndoor/World/Places/Untermeer.md","x":360,"y":1462,"width":400,"height":400},
-		{"id":"f4887641cce036f2","x":-498,"y":-2997,"width":400,"height":400,"type":"file","file":"Thousndoor/World/Places/_WRK_ gühwieden.md"}
+		{"id":"f4887641cce036f2","x":-498,"y":-2997,"width":400,"height":400,"type":"file","file":"Thousndoor/World/Places/_WRK_ gühwieden.md"},
+		{"id":"98ba8d5796b04db8","type":"file","file":"Thousndoor/World/Places/Drowning Shores.md","x":4216,"y":2760,"width":400,"height":760},
+		{"id":"7d7daba73777e049","type":"file","file":"Thousndoor/World/Places/Gühringen.md","x":3360,"y":-2997,"width":400,"height":400},
+		{"id":"ccd261fc62f44047","type":"file","file":"Thousndoor/World/Places/Wiedenwald.md","x":-2600,"y":-2997,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"9b90b744dbc0401d","fromNode":"d9dd17f70f26d42e","fromSide":"top","toNode":"487c416b97b8fb28","toSide":"right","toEnd":"none","color":"5"},
@@ -99,7 +99,8 @@
 		{"id":"10ca4c7489c4f622","fromNode":"ea4f34b39412784c","fromSide":"right","toNode":"e1720bf57f4cc38b","toSide":"left"},
 		{"id":"a164c043a2a1ad8f","fromNode":"839b177b7b370448","fromSide":"bottom","toNode":"d6e83b719a0f4e9a","toSide":"top"},
 		{"id":"e9e48fef0ef8aa6b","fromNode":"7d7daba73777e049","fromSide":"left","toNode":"f4887641cce036f2","toSide":"right","toEnd":"none","color":"5"},
-		{"id":"111bc4b2672c71b3","fromNode":"f4887641cce036f2","fromSide":"left","toNode":"ccd261fc62f44047","toSide":"top","toEnd":"none","color":"1"},
-		{"id":"f9d0c4362bd7a1c6","fromNode":"7d7daba73777e049","fromSide":"bottom","toNode":"f2fd15daacbabc08","toSide":"top","toEnd":"none","color":"1"}
+		{"id":"111bc4b2672c71b3","fromNode":"f4887641cce036f2","fromSide":"left","toNode":"ccd261fc62f44047","toSide":"right","toEnd":"none","color":"1"},
+		{"id":"f9d0c4362bd7a1c6","fromNode":"7d7daba73777e049","fromSide":"bottom","toNode":"f2fd15daacbabc08","toSide":"top","toEnd":"none","color":"1"},
+		{"id":"de0ac4ea43fbaf5c","fromNode":"4396b9063f87dd7b","fromSide":"left","toNode":"0b8bcc607282c126","toSide":"bottom","toEnd":"none","color":"1"}
 	]
 }

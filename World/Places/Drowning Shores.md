@@ -1,6 +1,6 @@
 
 > [!prose] Drowning Giant
-> The wet sand is dotted with deep humanoid footsteps, some new, some almost indistinguishable from the surrounding after being worn down by the tides. A gurgling noise fills the air, interspersed with wet coughing. The source is not far, a few hundred meters down the shore, a human head, tall as a grown man, pokes out from the sand. Its eye sockets are empty and the giants face is half submerged in the slick ground, a continuous stream of seawater and sand flowing into its mouth, only to be ejected again a few minutes later in a sudden coughing fit. Slowly the sea rises, and when it recedes, the giant will have sunken further into the ground, as it has every day for over a year.
+> The wet sand is dotted with deep humanoid footsteps, some new, some almost indistinguishable from the surroundings after being worn down by the tides. A gurgling noise fills the air, interspersed with wet coughing. The source is not far, a few hundred meters down the shore, a human head, tall as a grown man, pokes out from the sand. Its eye sockets are empty and the giants face is half submerged in the slick ground, a continuous stream of seawater and sand flowing into its mouth, only to be ejected again a few minutes later in a sudden coughing fit. Slowly the sea rises, and when it recedes, the giant will have sunken further into the ground, as it has every day for over a year.
 
 
 The northern coast of the [[Cyclopian Pastures]], named after the [[God Beast]]s stuck in the muddy beaches.
