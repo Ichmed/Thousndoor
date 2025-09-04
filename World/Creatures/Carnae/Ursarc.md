@@ -7,5 +7,5 @@ Compared to most [[Carnae]], [[Ursarc]] are rather animalistic, as such they are
 While [[Ursarc]] are not very dexterous, they have a knack for trinkets and beads, which they usually obtain by offering their services to other species.
 
 [[Ursarc]] live in a matriarchal society with the largest female presiding over a tribe of 15 to 50 members.
-![[Pasted image 20241125224728.png]]
+![[Pasted image 20250904235838.png]]
 An Ursarc Matriarch and Shaman

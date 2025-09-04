@@ -1,3 +1,4 @@
+![[Pasted image 20250904235807.png]]
 Solitary owl people and part of the [[Aven]] family that love knowledge and wisdom and rely almost solely on the help of summoned [[spirits]] for daily tasks.
 
 ![[Pasted image 20240509031441.png]]
