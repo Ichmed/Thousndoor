@@ -2,6 +2,7 @@ from os import walk, makedirs
 from markdown2 import markdown
 from pathlib import Path
 import re
+import os, shutil
 
 def main():
 
@@ -11,6 +12,7 @@ def main():
     build_dir("Rules II/Public", file_index)
 
 def build_dir(dir, file_index):
+    shutil.rmtree("docs/" + dir)
     for (path, dirs, files) in walk(dir):
         path = path.replace("\\", "/")
         page_index = []
