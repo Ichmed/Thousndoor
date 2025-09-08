@@ -41,7 +41,7 @@ def build_dir(dir, file_index):
 
         # text = html.escape(text)
         text = insert_links(text, file_index)
-        text = markdown(text, extras=['nl2br', 'smarty-pants', 'cuddled-lists', 'tag-friendly'])
+        text = markdown(text, extras=['nl2br', 'smarty-pants', 'cuddled-lists', 'tag-friendly', 'tables'])
         parent = str(Path(path).parent)
         makedirs("docs/" + parent, exist_ok=True)
 
