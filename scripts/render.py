@@ -16,7 +16,7 @@ def build_dir(dir, file_index):
         page_index = []
         for file in files:
             name, ending, *_ = file.split('.')
-            if ending == "md":
+            if ending == "md" and name != "index":
                 file_index[name] = path + "/" + file
                 page_index.append(f'<li><a href="/Thousndoor/{file_index[name].replace(".md", ".html")}">{name}</a>')
         for dir in dirs:
@@ -24,7 +24,7 @@ def build_dir(dir, file_index):
             page_index.append(f'<li><a href="/Thousndoor/{href}">{dir}</a>')
 
         makedirs("docs/" + path, exist_ok=True)
-        pages = "\n".join(page_index)
+        pages = "\n".join(sorted(page_index))
         with open("docs/" + path + "/index.html", mode="w+") as i:
             i.write(header)
             i.write("<body>")
