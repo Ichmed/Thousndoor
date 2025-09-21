@@ -11,8 +11,10 @@ Whenever a Character tries to do something that is beyond trivial, they _Take an
 9. Subtract the **Difficulty** chosen in **Step 3** from the **Roll**. The Game Master uses the **Outcome** table below to determine what happens next.
 
 ### Outcome
+Use this table to determine what happens after a Player takes an action. Note that some actions have fixed outcomes as described in [the Actions chapter](30%20Actions/index).
+For all other Actions you are free to improvise.
 
-| Result        | Name                 | Prose                                    |
+| Result        | Name                 | Description                              |
 | ------------- | -------------------- | ---------------------------------------- |
 | `-6 or less`  | Catastrophic Failure | You fail, and ...                        |
 | `-5 to -1 `   | Failure              | You fail                                 |
