@@ -3,8 +3,8 @@ Whenever a Character tries to do something that is beyond trivial, they _Take an
 1. You describe what you are trying to accomplish and how you want to accomplish it. The Game Master *secretly* decides the **Difficulty** of the Action based on your description.
 2. You and the Game Master agree on which [Skill](20%20Skills/index) you are going to be using to perform the action. You roll a number of six sided die equal to your Skill Level.
 3. Determine how many dice you are allowed to **keep**
-	- You select a number of [Perks](10%20Perks), and [[Circumstances]] that will be beneficial in performing the Action, these are called your **Advantages**
-	- The Game Master selects a number of [Weaknesses](20%20Weakness) and [[Circumstances]] that will hinder you in performing the Action, these are called your **Disadvantages**
+	- You select a number of [Perks](10%20Perks), and [Circumstances](50%20Circumstances/index) that will be beneficial in performing the Action, these are called your **Advantages**
+	- The Game Master selects a number of [Weaknesses](20%20Weakness) and [Circumstances](50%20Circumstances/index) that will hinder you in performing the Action, these are called your **Disadvantages**
 	- Subtract the number of **Disadvantages** from the number of **Advantages** and choose that many dice **plus one** (you may end up choosing zero).
 4. Add up the value of all dice. This sum is called your **Roll**.
 	- Every die you chose in **Step 3** counts as the number of pips on the die
