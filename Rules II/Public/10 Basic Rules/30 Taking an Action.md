@@ -1,4 +1,4 @@
-Whenever a Character tries to do something that is beyond trivial, they _Take an Action_. The steps are as follows:
+Whenever a Character tries to do something that is beyond trivial, they _Take an Action_. To learn more about actions see [the Actions chapter](30%20Actions/index). The steps to take an Action are as follows:
 
 1. You describe what you are trying to accomplish and how you want to accomplish it. The Game Master *secretly* decides the **Difficulty** of the Action based on your description.
 2. You and the Game Master agree on which [Skill](20%20Skills/index) you are going to be using to perform the action. You roll a number of six sided die equal to your Skill Level.
