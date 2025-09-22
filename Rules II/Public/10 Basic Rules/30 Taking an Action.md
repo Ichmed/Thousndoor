@@ -1,7 +1,7 @@
 Whenever a Character tries to do something that is beyond trivial, they _Take an Action_. The steps are as follows:
 
 1. You describe what you are trying to accomplish and how you want to accomplish it
-2. You and the Game Master agree on which Skill you are going to be using to perform the action.
+2. You and the Game Master agree on which [Skill](20%20Skills/index) you are going to be using to perform the action.
 3. The Game Master **secretly** decides the **Difficulty** of the Action based on your description in **Step 1**.
 4. You roll a number of six sided die equal to your Skill Level.
 5. You select a number of [Perks](10%20Perks), and [[Circumstances]] that will be beneficial in performing the Action, these are called your **Advantages**
