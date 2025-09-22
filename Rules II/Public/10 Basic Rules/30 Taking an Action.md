@@ -24,7 +24,7 @@ For all other Actions you are free to improvise.
 | ` 6 to 11`    | Success              | You succeed                              |
 | ` 12 or more` | Great Success        | You succeed, and ...                     |
 ### Difficulty
-The Difficulty of an Action should be roughly as follows. Note that the minimum Roll possible is always a 2
+The Difficulty of an Action should be roughly as follows. Note that the minimum Roll possible is always a 2.
 
 | Amount | Difficulty                                        |
 | ------ | ------------------------------------------------- |
