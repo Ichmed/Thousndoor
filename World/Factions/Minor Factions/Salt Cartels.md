@@ -1,1 +1,1 @@
-Family based groups of [[Salt Trolls]] that have sovereignty over most of [[Brinsprang]]s salt and vinegar production
+Family based groups of [[Salt Trolls]] that have sovereignty over most of [Brinsprang's](Brinsprange) salt and vinegar production
