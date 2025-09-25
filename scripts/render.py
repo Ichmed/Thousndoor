@@ -61,7 +61,7 @@ def build_dir(dir, file_index):
         open("docs/" + path.replace(".md", ".html"), mode="w+").write(final)
 
 header = """<head>
-<link rel="stylesheet" href="/Thousndoor/style.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css">
 <meta charset="UTF-8">
 </head>
 """
@@ -84,6 +84,7 @@ def insert_links(markdown: str, index: dict[str, str]) -> str:
 def make_breadcrumbs(path: str, include_tail) -> str:
     *breadcrumbs, tail = path.split("/")
     breadcrumbs = [f'<li><a href={"/".join([".."] * (len(breadcrumbs) - i - 1) + (["."] if include_tail else [".."]))}>{n}</a></li>' for i, n in enumerate(breadcrumbs)]
+    tail = f"<li>{tail}</li>"
     return ''.join(breadcrumbs + [tail.split('.')[0]])
 
 if __name__ == "__main__":
