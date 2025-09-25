@@ -5,7 +5,7 @@
     </head>
     <body>
         <div class="breadcrumb"><ul>{breadcrumbs}</ul></div>
-        <div class="content is-centered">
+        <div class="content container is-centered">
             <h1 class="title">{title}</h1>
             <div>
             {content}
