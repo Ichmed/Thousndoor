@@ -31,9 +31,9 @@ def build_dir(dir, file_index):
             i.write(header)
             i.write("<body><div class=\"breadcrumb\">")
             i.write(make_breadcrumbs(path, False))
-            i.write("</div><ul>")
+            i.write("</div><div class=\"content container is-centered\" <ul>")
             i.write(pages)
-            i.write("</ul><span id=\"placeholder\"></span></body>")
+            i.write("</ul></div><span id=\"placeholder\"></span></body>")
 
     template = open("scripts/text.html.template").read()
 
