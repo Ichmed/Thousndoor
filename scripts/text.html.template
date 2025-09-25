@@ -1,10 +1,10 @@
 <html>
     <head>
-        <link rel="stylesheet" href="/Thousndoor/style.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css">
         <meta charset="UTF-8">
     </head>
     <body>
-        <div class="breadcrumbs">{breadcrumbs}</div>
+        <div class="breadcrumb"><ul>{breadcrumbs}</ul></div>
         <h1 class="title">{title}</h1>
         <div class="content">
             {content}

@@ -1,57 +1,42 @@
 <html>
     <head>
-        <link rel="stylesheet" href="/Thousndoor/style.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css">
         <meta charset="UTF-8">
     </head>
     <body>
-        <div class="breadcrumbs"><a href=../../.>Rules II</a><span class="breadcrumb-sep"> &gt; </span><a href=../.>Public</a><span class="breadcrumb-sep"> &gt; </span><a href=.>10 Basic Rules</a><span class="breadcrumb-sep"> &gt; </span>30 Taking an Action</div>
+        <div class="breadcrumb"><ul><a href=../../.>Rules II</a><li class="breadcrumb-sep"> &gt; </li><a href=../.>Public</a><li class="breadcrumb-sep"> &gt; </li><a href=.>10 Basic Rules</a><li class="breadcrumb-sep"> &gt; </li>30 Taking an Action</ul></div>
         <h1 class="title">30 Taking an Action</h1>
         <div class="content">
-            <p>Whenever a Character tries to do something that is beyond trivial, they <em>Take an Action</em>. </p>
+            <p>Whenever a Character tries to do something that is beyond trivial, they <em>Take an Action</em>. To learn more about actions see <a href="30%20Actions/index">the Actions chapter</a>. The steps to take an Action are as follows:</p>
 
-<p>To perform an action, roll a number of six sided dice equal to one of your <span class="dead-link">Skills</span>. Which skill you choose depends on the kind of action you want to take.</p>
+<ol>
+<li>You describe what you are trying to accomplish and how you want to accomplish it. The Game Master <em>secretly</em> decides the <strong>Difficulty</strong> of the Action based on your description.</li>
+<li>You and the Game Master agree on which <a href="20%20Skills/index">Skill</a> you are going to be using to perform the action. You roll a number of six sided die equal to your Skill Level.</li>
+<li>Determine how many dice you are allowed to <strong>keep</strong>
+<ul>
+<li>You select a number of <a href="10%20Perks">Perks</a>, and <a href="50%20Circumstances/index">Circumstances</a> that will be beneficial in performing the Action, these are called your <strong>Advantages</strong></li>
+<li>The Game Master selects a number of <a href="20%20Weakness">Weaknesses</a> and <a href="50%20Circumstances/index">Circumstances</a> that will hinder you in performing the Action, these are called your <strong>Disadvantages</strong></li>
+<li>Subtract the number of <strong>Disadvantages</strong> from the number of <strong>Advantages</strong> and choose that many dice <strong>plus one</strong> (you may end up choosing zero).</li>
+</ul></li>
+<li>Add up the value of all dice. This sum is called your <strong>Roll</strong>.
+<ul>
+<li>Every die you chose in <strong>Step 3</strong> counts as the number of pips on the die</li>
+<li>Every other die count as a 1, no matter the number of pips it displays.   </li>
+</ul></li>
+<li>Subtract the <strong>Difficulty</strong> chosen in <strong>Step 1</strong> from the <strong>Roll</strong>. The Game Master uses the <strong>Outcome</strong> table below to determine what happens next.</li>
+</ol>
 
-<p>For each <span class="dead-link">Advantage</span> you have, you may &#8220;keep&#8221; one of the dice. For every <span class="dead-link">Disadvantage</span> you have you keep one less die. Add up the value of each die you kept plus 1 for every die you didn&#8217;t keep, this is the Result of your Action.</p>
+<h3>Outcome</h3>
 
-<table>
-<thead>
-<tr>
-  <th>Amount</th>
-  <th>Difficulty</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td>0</td>
-  <td>None, Result just determins quality of the action</td>
-</tr>
-<tr>
-  <td>3</td>
-  <td>Easy but not trivial</td>
-</tr>
-<tr>
-  <td>6</td>
-  <td>Medium</td>
-</tr>
-<tr>
-  <td>12</td>
-  <td>Hard</td>
-</tr>
-<tr>
-  <td>18</td>
-  <td>Very Hard</td>
-</tr>
-</tbody>
-</table>
-
-<p>The Game Master then subtracts the Difficulty of the Action (decided secretly beforehand). Based on the resulting number determine the Outcome of your action as follows:</p>
+<p>Use this table to determine what happens after a Player takes an action. Note that some actions have fixed outcomes as described in <a href="30%20Actions/index">the Actions chapter</a>.
+For all other Actions you are free to improvise.</p>
 
 <table>
 <thead>
 <tr>
   <th>Result</th>
   <th>Name</th>
-  <th>Prose</th>
+  <th>Description</th>
 </tr>
 </thead>
 <tbody>
@@ -84,6 +69,41 @@
   <td><code>12 or more</code></td>
   <td>Great Success</td>
   <td>You succeed, and &#8230;</td>
+</tr>
+</tbody>
+</table>
+
+<h3>Difficulty</h3>
+
+<p>The Difficulty of an Action should be roughly as follows. Note that the minimum Roll possible is always a 2.</p>
+
+<table>
+<thead>
+<tr>
+  <th>Amount</th>
+  <th>Difficulty</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>2</td>
+  <td>None, Result just determins quality of the action</td>
+</tr>
+<tr>
+  <td>5</td>
+  <td>Easy but not trivial</td>
+</tr>
+<tr>
+  <td>10</td>
+  <td>Medium</td>
+</tr>
+<tr>
+  <td>15</td>
+  <td>Hard</td>
+</tr>
+<tr>
+  <td>20</td>
+  <td>Very Hard</td>
 </tr>
 </tbody>
 </table>
