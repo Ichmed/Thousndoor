@@ -29,9 +29,9 @@ def build_dir(dir, file_index):
         pages = "\n".join(sorted(page_index))
         with open("docs/" + path + "/index.html", mode="w+") as i:
             i.write(header)
-            i.write("<body><div class=\"breadcrumb\">")
+            i.write("<body><div class=\"breadcrumb\"><ul>")
             i.write(make_breadcrumbs(path, False))
-            i.write("</div><div class=\"content container is-centered\" <ul>")
+            i.write("</ul></div><div class=\"content container is-centered\" <ul>")
             i.write(pages)
             i.write("</ul></div><span id=\"placeholder\"></span></body>")
 
