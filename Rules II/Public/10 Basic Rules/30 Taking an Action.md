@@ -12,7 +12,7 @@ Whenever a Character tries to do something that is beyond trivial, they _Take an
 5. Subtract the **Difficulty** chosen in **Step 1** from the **Roll**. The Game Master uses the **Outcome** table below to determine what happens next.
 
 ### Outcome
-Use this table to determine what happens after a Player takes an action. Note that some actions have fixed outcomes as described in [the Actions chapter](30%20Actions/index).
+Use this table to determine what happens after a Player takes an action. Note that some actions have fixed outcomes as described in [the Actions chapter](../30%20Actions/index).
 For all other Actions you are free to improvise.
 
 | Result        | Name                 | Description                              |
