@@ -2,12 +2,17 @@ The [[Twelve Beasts]] are a common theme among many cultures from all over the w
 
 ### Spring - The Beast of Diligence
 - Bee
-- Beetle
+- Beaver
 - Squirrel
 ### Summer - The Beasts of Splendor
 - Cockatrice
 - Parrot
 - Butterfly
 ### Autumn - The Beasts of Hunger
-- 
+- Vulture
+- Hyena
+- Shark/Jackal
 ### Winter - The Beasts of Death
+- Wolf
+- Basilisk
+- Crow
