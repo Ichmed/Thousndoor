@@ -28,9 +28,9 @@ The Difficulty of an Action should be roughly as follows. Note that the minimum 
 
 | Amount | Difficulty                                        |
 | ------ | ------------------------------------------------- |
-| 2      | None, Result just determins quality of the action |
-| 5      | Easy but not trivial                              |
-| 10     | Medium                                            |
-| 15     | Hard                                              |
-| 20     | Very Hard                                         |
+| 0      | None, Result just determins quality of the action |
+| 6      | Easy but not trivial                              |
+| 12     | Medium                                            |
+| 18     | Hard                                              |
+| 24     | Very Hard                                         |
 
