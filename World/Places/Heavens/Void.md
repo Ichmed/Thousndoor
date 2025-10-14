@@ -2,3 +2,4 @@ The Heavens of Void contain no stars, a day here always lasts 12 hours followed 
 
 ## Locations
 [[Thousndoor]]
+[[The Barrens]]
