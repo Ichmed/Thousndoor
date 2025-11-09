@@ -1,5 +1,5 @@
 **gateways** *(eng)*, **torwegs** *(de)*
-Through a [[Gateway]]. Antonym of *hindward*
+Through a [[Gateway]]. Antonym of *hindwards*
 *"Did he come to [[Yyrika]] gateways?"*
 *"Kam er torwegs nach [[Yyrika]]?"*
 
