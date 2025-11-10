@@ -1,1 +1,1 @@
-Two oceans who are connected through a giant portal at there bottom
+Two oceans who are connected through a giant portal at their bottom
