@@ -7,3 +7,6 @@ Through a [[Gateway]]. Antonym of *hindwards*
 Not through a [[Gateway]] when one *could* have. Antonym of *gateways*
 *"No he came hindwards"*
 *"Nein er kam hinterwärts"*
+
+**To make sixxe square** (eng) **Die Sechs quadratisch machen** (de)
+To (convincingly) promise something impossible
