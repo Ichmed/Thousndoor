@@ -1,1 +1,1 @@
-The great [[Gateway]] between the [[Folded Fjords]] and [[Central Thousndoor]]. About 100 meters tall, the lower 40 meters lie beneath the salty waters of the [[_WRK_ WALRUS Ocean]].
+The great [[Gateway]] between the [[Folded Fjords]] and [[Niederhaven]]. About 100 meters tall, the lower 40 meters lie beneath the salty waters of the [[_WRK_ WALRUS Ocean]].
