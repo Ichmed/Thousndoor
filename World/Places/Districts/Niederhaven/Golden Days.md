@@ -1,0 +1,2 @@
+A span of ten days, usually from October 23. to November 2., when the evening sun shines along the [[Wyrmund]], flooding the otherwise dark and sullen [[Untermeer]] with golden light.
+It is a time of street festivals, school holidays and excessive drinking.
