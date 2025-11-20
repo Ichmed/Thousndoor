@@ -1,0 +1,1 @@
+An office consisting of two locations, one on either side of the [[Wyrmund]]. The name comes from the giant wooden display boards, located along the coast on the way to the [[Wyrmund]]. Teams of [[Villick]] work in accord to constantly update the displays with the names and timings of ships passing through the gate.
