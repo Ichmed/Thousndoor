@@ -1,4 +1,4 @@
-A Species of bear-like [[Carnae]] that live in the far north of the [[_WRK_ WALRUS Ocean]].
+A Species of bear-like [[Carnae]] that live in the far north of the [[Bittermeer]].
 ## Anatomy
 [[Ursarc]] have a body length of 2 to 3 meters. Because their spine attaches to the back of the skull, they have a hunched-over stance when walking on two feet or sitting, making them appear shorter than they are. Their hands are paw-like and have calloused pads.
 
