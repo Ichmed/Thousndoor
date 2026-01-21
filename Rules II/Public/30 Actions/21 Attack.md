@@ -43,7 +43,7 @@ Perks: _Silent Killer_, _Blade Master_, _Noiseless Soles_
 Situation: _Chaos on the Marketplace_
 ### Harbringers Crescendo
 >[!Fluff]
->This foolish gangster thought he had a chance against against a General of the Joharbian Legions. Using her wings she swoops down, striking at him with her scythe. He leaps out of the way and regathers his strength. Just as he thinks himself save, Elira sends out a toren of razor sharp autumn leaves from the tips of her wings, tearing him to shreds.
+>This foolish gangster thought he had a chance against against a General of the Joharbian Legions. Using her wings she swoops down, striking at him with her scythe. He leaps out of the way and regathers his strength. Just as he thinks himself save, Elira sends out a torrent of razor sharp autumn leaves from the tips of her wings, tearing him to shreds.
 
 Perks: _Legion General_, _Scythe_, _Leaf Blades_, _Harbringer_, _Battle Tactics_, _Harvest Strike_, _Dive Bomb_
 Position: _Flying_
