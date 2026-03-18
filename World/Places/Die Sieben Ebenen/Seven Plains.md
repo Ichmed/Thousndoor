@@ -4,7 +4,7 @@ The river [[Kuoth]] flows out from [[Thousndoor]] through a series of 6 or 8 (de
 [[Valley of Thunder]]
 [[Ebene 2]]
 [[Cyclopian Pastures]]
-[[Ebene 4]]
+[[Obsidian Mirror]]
 [[Ukanta]]
 [[Ebene 6]]
 [[Bay of Imhab]]

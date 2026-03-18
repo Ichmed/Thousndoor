@@ -1,0 +1,1 @@
+A giant expanse of polished Obsidian, broken up by rare groups of [[Sechstein]] columns
