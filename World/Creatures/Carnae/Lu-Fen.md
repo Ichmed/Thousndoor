@@ -1,0 +1,1 @@
+Small fox-like [[Carnae]] known for their wit, patience and wisdom. Native to the deserts of northern [[Kurmana]]
