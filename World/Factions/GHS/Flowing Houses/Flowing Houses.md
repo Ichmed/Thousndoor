@@ -1,8 +1,8 @@
 ![[Pasted image 20240511220722.png]]
 ## Species: 
 - Humans
-- [[Crocodillians]]
-- Desert [[Carnae]] (Foxes, Jackals)
+- [[Mazach]]
+- [[Lu-Fen]]
 ## Geography: 
 [[Seven Plains]] Desert, Floodplanes
 ## Resources: 

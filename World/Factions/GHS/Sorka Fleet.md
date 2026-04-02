@@ -2,7 +2,6 @@
 ## Species:
 - Humans
 - [[Rosmar]]
-- [[_WRK_ Otters]]
 - [[Ursarc]]
 - [[Salt Trolls]]
 - Sea-bird [[Aven]]s (gulls, albatross, fish-eagle)
