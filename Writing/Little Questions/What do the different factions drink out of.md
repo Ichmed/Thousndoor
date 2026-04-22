@@ -14,3 +14,9 @@ Commoners:
 - Tin and pewter Cups
 - Wooden mugs
 ## [[Flowing Houses]]
+- Stoneware
+- Bronze Cups
+## [[Joharbian Legion]]
+- Wooden Cups
+- Pewter Cups
+- [[Leafpack]]
