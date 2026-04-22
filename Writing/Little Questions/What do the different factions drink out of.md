@@ -20,3 +20,7 @@ Commoners:
 - Wooden Cups
 - Pewter Cups
 - [[Leafpack]]
+
+## [[Burning Church]]
+- Pewter cups
+- Wrought iron chalices
