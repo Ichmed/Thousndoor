@@ -1,0 +1,1 @@
+A [graphomantically](Graphomancy) augmented life form. [Geomunculi](Geomunculus) have enhanced attributes and are more precise, durable and stronger than there natural occurring counterparts, but lose some or all of their personality and idiosyncrasies.
