@@ -1,7 +1,7 @@
 ![[Pasted image 20240511220722.png]]
 ## Species: 
 - Humans
-- [[Mazach]]
+- [[Mazah]]
 - [[Lu-Fen]]
 ## Geography: 
 [[Seven Plains]] Desert, Floodplanes
