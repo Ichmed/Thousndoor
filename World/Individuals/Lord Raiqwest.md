@@ -1,0 +1,1 @@
+One of the [[Blood Lords of Yyrika]], head of [[House Raiqwest]]
