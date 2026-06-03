@@ -6,4 +6,4 @@ Most of the country is dominated by temperate rain forest, dotted with tall, she
 The north of the country is dominated by large steppes and deserts
 
 ## Culture
-The culture of local human settlements is heavily influenced by the ruins of an ancient [[Aigor Shun]] that can be found all over [[Kurmana]], from writing, to architecture and religion.
+The culture of local human settlements is heavily influenced by the ruins of an ancient [[Aigor Shun]] Realm. Its influence can be found all over [[Kurmana]], from writing, to architecture and religion.

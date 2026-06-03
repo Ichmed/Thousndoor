@@ -5,3 +5,4 @@ The region is dominated by black soil of volcanic origin, contrasting against th
 
 ## Economy
 Mostly rural with large grain exports. There exists an artisan tradition of crafting exquisite obsidian daggers.
+In the north there are large [[Soap Swamps]] which sustain a traditional buisness of [Soapers](Soaper)
