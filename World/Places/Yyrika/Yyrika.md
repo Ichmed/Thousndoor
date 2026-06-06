@@ -6,6 +6,7 @@
 [[Yarkut]]
 [[Morchelheim]]
 [[Yurpolis]]
+[[]]
 
 ## Geographic Features
 [[Immortal Wound]]
@@ -16,5 +17,5 @@
 - Wool
 - Soap
 - [[Necrolithic Mist]]
-- [[Garlic Sausage]]
+- [[Zuuck]]
 - Custom [[Ghoul]]s and [[Ghoul]] accessories

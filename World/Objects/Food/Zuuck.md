@@ -1,0 +1,1 @@
+Coarse Mutton Sausage with lots of Garlic, used as spread or soup base.
