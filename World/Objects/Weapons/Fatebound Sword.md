@@ -1,1 +1,2 @@
 A sword bound to the fate of its wielder. The blade is promised to slay its owner one day, but until that time, this weapon will try as it might to prevent all bodily harm that comes to its sworn counterpart.
+Each blade is bound to a specific fate, only known by its crafter. Though it is sometimes conferred on the wielder as well, most choose not to learn it.
