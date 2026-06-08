@@ -5,4 +5,4 @@
 
 An ornate hilt recovered from the [[Immortal Wound]]. When swung correctly it can cut holes in the [[veil]] and may slay an armored foe with a single strike.
 
-
+The [[Finality]] of this blade is so great, that it is able to override most destined forces in the universe.
