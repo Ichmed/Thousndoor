@@ -1,4 +1,4 @@
-![[Pasted image 20240917211958.png]]
+![[Pasted image 20240917211958.png|320]]
 ## Species:
 - Humans
 - [[Rosmar]]
