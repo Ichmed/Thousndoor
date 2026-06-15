@@ -1,0 +1,1 @@
+A Jack-in-a-box that owns and operates a [[Dreamscape]] that consists entirely of a pub of the same name. The bar is especially popular with university students and because university students love to sleep all day, it is always filled to the brim.
