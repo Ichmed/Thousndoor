@@ -1,3 +1,4 @@
+A collections of duchies located in the [[Heavens of the Eye]]
 ## Regions
 [[Yyrika Prima]]
 [[Groaning Del]]
@@ -6,9 +7,14 @@
 [[Yarkut]]
 [[Morchelheim]]
 [[Yurpolis]]
-[[]]
 
-## Geographic Features
+
+## Geography
+### North
+Mountains and Forests
+### East
+Swamps and steppes
+### Geographic Features
 [[Immortal Wound]]
 [[Streams of Dread]]
 [[Soap Swamps]]
