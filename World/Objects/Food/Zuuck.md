@@ -1,1 +1,1 @@
-Coarse Mutton Sausage with lots of Garlic, used as spread or soup base.
+Coarse Mutton Sausage with lots of Garlic, used as spread or soup base. It is a national dish of [[Yyrika]].
