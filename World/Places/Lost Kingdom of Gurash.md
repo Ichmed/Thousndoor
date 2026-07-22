@@ -1,1 +1,2 @@
-Mysterious ruins on the bottom of the [[Bittermeer]]. 
+Deep under the perilous waves of the [[Bittermeer]], covered in coral and stalked by denizens of the deep, lies the [[Lost Kingdom of Gurash]]. A collection of domed buildings and grand plazas, covered in arcane runes and inscriptions.
+Nobody knows who built this civilization, or what sent it to the icy depths.
