@@ -1,4 +1,4 @@
-A collections of duchies located in the [[Heavens of the Eye]]
+A collections of duchies located in the [[Heavens of the Eye]]. Located south of [[Kurmana]].
 ## Regions
 [[Yyrika Prima]]
 [[Groaning Del]]
