@@ -11,8 +11,6 @@
 		{"id":"849defa9b9a10508","type":"text","text":"???","x":-680,"y":-820,"width":148,"height":360,"color":"#ffffff"},
 		{"id":"a88dadd139a70286","type":"text","text":"Portal Builders???","x":-532,"y":-820,"width":1813,"height":55},
 		{"id":"299cb9d3a0849066","type":"text","text":"Waldmeer Civ","x":120,"y":-600,"width":160,"height":300,"color":"4"},
-		{"id":"35fa9f74ccf6a52a","type":"text","text":"Frost Plains","x":531,"y":-465,"width":250,"height":140,"color":"3"},
-		{"id":"ee33cfa601536100","type":"text","text":"Icy Channels","x":531,"y":-325,"width":250,"height":110,"color":"3"},
 		{"id":"fb5ef0007bb941f3","type":"text","text":"Waring Fleets","x":531,"y":-160,"width":250,"height":165,"color":"3"},
 		{"id":"e8ca865a9ab41689","type":"text","text":"Desert Trolls","x":781,"y":-765,"width":125,"height":370,"color":"5"},
 		{"id":"3f1e4f4345f72906","type":"text","text":"[[Mazah]]","x":781,"y":-395,"width":125,"height":430,"color":"5"},
