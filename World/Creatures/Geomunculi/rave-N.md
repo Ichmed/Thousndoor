@@ -1,0 +1,1 @@
+[[Geomunculus]] based on a raven. Used for recording and storing information as well as transporting personal memos.

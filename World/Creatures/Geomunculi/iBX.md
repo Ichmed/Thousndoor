@@ -1,0 +1,1 @@
+[[Geomunculus]] based on an Ibex. Optimized for pulling personal transport carriages, not suited to riding.
