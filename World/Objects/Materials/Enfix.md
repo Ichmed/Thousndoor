@@ -1,0 +1,2 @@
+Enfix or N-Fix, short for necrolithic fixative, a [[Necrolithic Mist]] derivative that can temporarily soften tissue.
+By applying enfix to a an injury followed by pressure, physical trauma can be quickly treated.

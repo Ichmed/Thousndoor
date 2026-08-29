@@ -1,1 +1,1 @@
-Methane produced by rotting leaves from the [[Joharbist]], used throughout [[Thousndoor]] to power gas lamps.
+Methane produced by rotting leaves from the [[Joharbist]], used throughout [[Thousndoor]] to power gas lamps and stoves.
