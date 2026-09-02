@@ -1,7 +1,6 @@
 ## Species: 
 - [[Aigor Shun]]
 - [[Oni]]
-- [[Kitsune]]
 ## Geography: 
 [[Eternal Forest]], [[Dead District]]
 ## Resources: 

@@ -1,12 +1,16 @@
-**gateways** *(eng)*, **torwegs** *(de)*
+>[!Definition] **gateways** *(eng)*, **torwegs** *(de)*
 Through a [[Gateway]]. Antonym of *hindwards*
 *"Did he come to [[Yyrika]] gateways?"*
 *"Kam er torwegs nach [[Yyrika]]?"*
 
-**hindwards** *(eng)*, **hinterwärts** *(de)*
+>[!Definition] **hindwards** *(eng)*, **hinterwärts** *(de)*
 Not through a [[Gateway]] when one *could* have. Antonym of *gateways*
 *"No he came hindwards"*
 *"Nein er kam hinterwärts"*
 
-**To make sixxe square** (eng) **Die Sechs quadratisch machen** (de)
+>[!Definition] **To make sixxe square** *(eng)* **Die Sechs quadratisch machen** *(de)*
 To (convincingly) promise something impossible
+
+>[!Definition] **Hanger** *(eng)* **Hänger** *(de)*
+Somebody who is constantly high on [[Feenstaub]] or other [[Phasmodelics]]
+
