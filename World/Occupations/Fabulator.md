@@ -1,0 +1,1 @@
+A person that (temporarily) conjures creatures from the realm of dreams into physical reality.

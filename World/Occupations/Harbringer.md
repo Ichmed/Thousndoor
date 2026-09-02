@@ -1,0 +1,1 @@
+Wielders of autumnal power that bring the constant state of decay inherent to the [[Joharbist]] with them and can transfer it onto other beings and things.

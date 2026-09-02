@@ -1,0 +1,1 @@
+Artificially created dodecahedral sand, which seems to have no friction at all and behaves like a liquid. It is often used as a lubricant.
