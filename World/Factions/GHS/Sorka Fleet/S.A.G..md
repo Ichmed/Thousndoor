@@ -1,1 +1,2 @@
-The **S**emi **A**utonomous [**G**onger](Gonger) 
+The **S**emi **A**utonomous [**G**onger](Gonger) is an eldritch looking amalgamation of metal, rubber, bone and seaweed. A large frame, formed by bronze and iron extremities, encases a limber torso. The core is formed of a desecrated diving suite that seems to be at once writhing and bursting at the seems, while at the same time livelessly dangling from its supports.
+From the faceplate of the suite, as well as the portholes set into the arms and legs, a tangle of seaweed can be glimpsed. The plantmatter, once confined to the suite, has grown into the limbs of the construct via rubber hoses that have been attached to the core.
