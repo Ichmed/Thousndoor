@@ -1,1 +1,1 @@
-A giant river connecting [[__WRK__ Kuoth Origin]], the [[Seven Plains]], and [[Thousndoor]]. Its total length of around 7000 kilometers is spend to about equal parts in each of the plain
+A giant river connecting [[_WRK_ Kuoth Origin]], the [[Seven Plains]], and [[Thousndoor]]. Its total length of around 7000 kilometers is spend to about equal parts in each of the plain
