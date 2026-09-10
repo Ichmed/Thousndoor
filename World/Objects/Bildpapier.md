@@ -1,0 +1,1 @@
+Prints made with color from [[Joharbist]] leaves and lapis lazuli. Due to the pigments involved, colors can have any gradient of red, orange, yellow and green, but can only have shades of pure blue, no cyan or purple.
