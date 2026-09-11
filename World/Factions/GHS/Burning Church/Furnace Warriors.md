@@ -1,2 +1,2 @@
 The lowest clerical rank of the [[Focal Cruach]]. The heads of these warriors are wrapped cages of [[Embersteel]] which serve as physical protection as well as a last resort in case the soldier is captured by enemy forces.
-[[Hearth Warriors]] are usually deployed in their own units, separate from other forces, and serve as the first wave of reinforcement, after mundane forces have entered an area.
+[[Furnace Warriors]] are usually deployed in their own units, separate from other forces, and serve as the first wave of reinforcement, after mundane forces have entered an area.
