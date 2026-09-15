@@ -1,0 +1,1 @@
+A "pure tree". These white plants are cultivated via secret techniques of the church, imbuing them with a near total resistance to flame.
