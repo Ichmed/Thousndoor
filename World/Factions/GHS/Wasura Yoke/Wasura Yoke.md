@@ -1,6 +1,7 @@
 ## Species: 
 - [[Aigor Shun]]
 - [[Oni]]
+- Humans
 ## Geography: 
 [[Eternal Forest]], [[Dead District]]
 ## Resources: 
