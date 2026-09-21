@@ -1,1 +1,1 @@
-The highest council of the [[Wasura Yoke]]. A group of five
+A group of five [[Aigor Shun]] who represent the ultimate authority among the [[Wasura Yoke]]
