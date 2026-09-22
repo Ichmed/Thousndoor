@@ -1,1 +1,1 @@
-Race of undead deer people that inhabit the [[Eternal Forest]] and adjacent areas of the [[Undercity]] called the [[Dead District]]
+A Race of large, gangly humanoids with deer like antlers. Once a sprawling empire, inhabitting many lands and heavens. After thousands of years the only remmenants of their once great civilization are the [[Wasura Yoke]], who inhabit the [[Eternal Forest]] and [[Dead District]]

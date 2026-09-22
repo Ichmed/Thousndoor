@@ -1,0 +1,1 @@
+People who commune with the [[Aigor Shun]] and relay their will.
