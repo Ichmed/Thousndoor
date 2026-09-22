@@ -16,3 +16,5 @@ Somebody who is constantly high on [[Feenstaub]] or other [[Phasmodelics]]
 
 > [!Definition] **Holy fire leaves no soot** *(eng)* **Heiliges Feuer rust nicht** *(de)*
 > Good work is clean work that leaves no loose ends
+
+

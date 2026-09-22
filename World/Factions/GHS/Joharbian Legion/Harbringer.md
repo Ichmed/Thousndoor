@@ -1,0 +1,1 @@
+Powerful autumnal Invokers that transmit the constant decay of the [[Joharbist]] onto their foes
