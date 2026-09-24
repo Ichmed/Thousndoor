@@ -4,8 +4,8 @@ The [[Folded Fjords]] are the ancestral home of the [[Rosmar]] and are still ref
 
 ## Geography
 #### Highlands
-The highland atop the fjords are covered in rolling hills with sparse vegitation of brushes and coniferous trees. Up here, a thin layer of snow coats everything for most of the year. During the winter temperatures as low as -30° are possible.
+The highland atop the fjords are covered in rolling hills with sparse vegetation of brushes and coniferous trees. Up here, a thin layer of snow coats everything for most of the year. During the winter temperatures as low as -30° are possible.
 
 #### Banks
-At the foot of the mighty fjoirds lie the Banks, a collection of sandbanks, overgrown with hardy grasses and reeds. They are often reinforced with wooden floodwalls or dikes to prevent errosion and enable local fishing villages to settle.
+At the foot of the mighty fjords lie the Banks, a collection of sandbanks, overgrown with hardy grasses and reeds. They are often reinforced with wooden flood walls or dikes to prevent erosion and enable local fishing villages to settle.
 Even during the winter the temperature seldom dips below -5° and the salty ocean is always ice free.
