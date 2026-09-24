@@ -1,0 +1,1 @@
+A large valley in the [[Mountains of DarRok]] where large amounts of tiny creeks and tributaries flow into a large chasm, the [[Raingate]]

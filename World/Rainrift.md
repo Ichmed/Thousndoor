@@ -1,1 +1,0 @@
-A large valley in the [[Mountains of DarRok]] 
