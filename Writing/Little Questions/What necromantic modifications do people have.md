@@ -1,0 +1,5 @@
+- Eye socket overgrown with skin, dotted with tiny eyes.
+- Arms growing out of the back of the torso, clasped in permanent prayer above the head
+- Missing Head
+- Enlarged Maw
+- 
