@@ -1,0 +1,1 @@
+A phenomenon experienced during necrolithic procedures. Individuals suffering from [[Jehzog]] perceive events in a delayed fashion, ranging from fractions of seconds, up to years in severe cases.
