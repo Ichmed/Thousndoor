@@ -1,0 +1,1 @@
+People who commune with the [[Aigor Shun]] and relay their will. Most [[Forespeakers]] have there eyes veiled or excised and use necromantic enhancements to better commune with the Elders. 
